@@ -71,16 +71,16 @@ El objetivo no es solo mostrar gráficos, sino traducir los datos en **recomenda
 ## 📸 Dashboard
 
 ### Resumen de Mercado
-![Mercado](images/menorquina_page1_mercado.png)
+![Mercado](menorquina_page1_mercado.png)
 
 ### Posición Competitiva
-![Competidores](images/menorquina_page2_competidores.png)
+![Competidores](menorquina_page2_competidores.png)
 
 ### Tendencias del Sector
-![Tendencias](images/menorquina_page3_tendencias.png)
+![Tendencias](menorquina_page3_tendencias.png)
 
 ### Recomendaciones
-![Recomendaciones](images/menorquina_page4_recomendaciones.png)
+![Recomendaciones](menorquina_page4_recomendaciones.png)
 
 ---
 
