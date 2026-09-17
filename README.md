@@ -92,3 +92,4 @@ Mercasa (Alimentación en España 2024), MAPA, Sweetpress, Madrid Alimenta, Stat
 
 **Autor:** Álex Paniagua López — *Panix Analytics*
 📊 Marketing & Data Analyst | 🔗 [LinkedIn](https://www.linkedin.com/in/alex-paniagua-data)
+Espero que haya servido de ayuda!
