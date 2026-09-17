@@ -1,0 +1,1081 @@
+﻿Anio,Mes,Fecha,Canal,Categoria,Ingresos_EUR,Litros,Tipo_Dato
+2022,1,2022-01-01,Supermercados,Tarrinas,476160.94,113371.6,Real (base pública)
+2022,2,2022-02-01,Supermercados,Tarrinas,512677.45,122066.1,Real (base pública)
+2022,3,2022-03-01,Supermercados,Tarrinas,746150.59,177654.9,Real (base pública)
+2022,4,2022-04-01,Supermercados,Tarrinas,1000006.74,238096.9,Real (base pública)
+2022,5,2022-05-01,Supermercados,Tarrinas,1326526.05,315839.5,Real (base pública)
+2022,6,2022-06-01,Supermercados,Tarrinas,1785709.63,425169.0,Real (base pública)
+2022,7,2022-07-01,Supermercados,Tarrinas,2339439.95,557009.5,Real (base pública)
+2022,8,2022-08-01,Supermercados,Tarrinas,2197828.11,523292.4,Real (base pública)
+2022,9,2022-09-01,Supermercados,Tarrinas,1361145.99,324082.4,Real (base pública)
+2022,10,2022-10-01,Supermercados,Tarrinas,901426.87,214625.5,Real (base pública)
+2022,11,2022-11-01,Supermercados,Tarrinas,554712.93,132074.5,Real (base pública)
+2022,12,2022-12-01,Supermercados,Tarrinas,504224.81,120053.6,Real (base pública)
+2022,1,2022-01-01,Supermercados,Bombones y Palo,407543.74,97034.2,Real (base pública)
+2022,2,2022-02-01,Supermercados,Bombones y Palo,404612.15,96336.2,Real (base pública)
+2022,3,2022-03-01,Supermercados,Bombones y Palo,572356.32,136275.3,Real (base pública)
+2022,4,2022-04-01,Supermercados,Bombones y Palo,782702.58,186357.8,Real (base pública)
+2022,5,2022-05-01,Supermercados,Bombones y Palo,1104365.08,262944.0,Real (base pública)
+2022,6,2022-06-01,Supermercados,Bombones y Palo,1590552.06,378702.9,Real (base pública)
+2022,7,2022-07-01,Supermercados,Bombones y Palo,1793821.7,427100.4,Real (base pública)
+2022,8,2022-08-01,Supermercados,Bombones y Palo,1704859.26,405918.9,Real (base pública)
+2022,9,2022-09-01,Supermercados,Bombones y Palo,1296542.89,308700.7,Real (base pública)
+2022,10,2022-10-01,Supermercados,Bombones y Palo,752016.68,179051.6,Real (base pública)
+2022,11,2022-11-01,Supermercados,Bombones y Palo,493816.59,117575.4,Real (base pública)
+2022,12,2022-12-01,Supermercados,Bombones y Palo,415540.94,98938.3,Real (base pública)
+2022,1,2022-01-01,Supermercados,Postres y Tartas,301316.75,71742.1,Real (base pública)
+2022,2,2022-02-01,Supermercados,Postres y Tartas,346073.03,82398.3,Real (base pública)
+2022,3,2022-03-01,Supermercados,Postres y Tartas,454100.78,108119.3,Real (base pública)
+2022,4,2022-04-01,Supermercados,Postres y Tartas,631132.8,150269.8,Real (base pública)
+2022,5,2022-05-01,Supermercados,Postres y Tartas,867953.65,206655.7,Real (base pública)
+2022,6,2022-06-01,Supermercados,Postres y Tartas,1187006.51,282620.6,Real (base pública)
+2022,7,2022-07-01,Supermercados,Postres y Tartas,1402001.79,333809.9,Real (base pública)
+2022,8,2022-08-01,Supermercados,Postres y Tartas,1541758.43,367085.3,Real (base pública)
+2022,9,2022-09-01,Supermercados,Postres y Tartas,928616.35,221099.1,Real (base pública)
+2022,10,2022-10-01,Supermercados,Postres y Tartas,554136.99,131937.4,Real (base pública)
+2022,11,2022-11-01,Supermercados,Postres y Tartas,394150.65,93845.4,Real (base pública)
+2022,12,2022-12-01,Supermercados,Postres y Tartas,323155.71,76941.8,Real (base pública)
+2022,1,2022-01-01,Supermercados,Cucuruchos/Sándwich,219087.81,52163.7,Real (base pública)
+2022,2,2022-02-01,Supermercados,Cucuruchos/Sándwich,217309.28,51740.3,Real (base pública)
+2022,3,2022-03-01,Supermercados,Cucuruchos/Sándwich,314882.37,74972.0,Real (base pública)
+2022,4,2022-04-01,Supermercados,Cucuruchos/Sándwich,437915.36,104265.5,Real (base pública)
+2022,5,2022-05-01,Supermercados,Cucuruchos/Sándwich,649506.92,154644.5,Real (base pública)
+2022,6,2022-06-01,Supermercados,Cucuruchos/Sándwich,850427.31,202482.6,Real (base pública)
+2022,7,2022-07-01,Supermercados,Cucuruchos/Sándwich,1005991.99,239521.9,Real (base pública)
+2022,8,2022-08-01,Supermercados,Cucuruchos/Sándwich,972880.61,231638.3,Real (base pública)
+2022,9,2022-09-01,Supermercados,Cucuruchos/Sándwich,602383.68,143424.7,Real (base pública)
+2022,10,2022-10-01,Supermercados,Cucuruchos/Sándwich,394814.64,94003.5,Real (base pública)
+2022,11,2022-11-01,Supermercados,Cucuruchos/Sándwich,258902.86,61643.5,Real (base pública)
+2022,12,2022-12-01,Supermercados,Cucuruchos/Sándwich,253648.8,60392.6,Real (base pública)
+2022,1,2022-01-01,Supermercados,Yogur helado,157534.78,37508.3,Real (base pública)
+2022,2,2022-02-01,Supermercados,Yogur helado,156912.74,37360.2,Real (base pública)
+2022,3,2022-03-01,Supermercados,Yogur helado,244818.81,58290.2,Real (base pública)
+2022,4,2022-04-01,Supermercados,Yogur helado,303783.9,72329.6,Real (base pública)
+2022,5,2022-05-01,Supermercados,Yogur helado,432270.32,102921.5,Real (base pública)
+2022,6,2022-06-01,Supermercados,Yogur helado,620707.67,147787.5,Real (base pública)
+2022,7,2022-07-01,Supermercados,Yogur helado,760002.39,180952.9,Real (base pública)
+2022,8,2022-08-01,Supermercados,Yogur helado,738389.32,175806.9,Real (base pública)
+2022,9,2022-09-01,Supermercados,Yogur helado,445125.8,105982.3,Real (base pública)
+2022,10,2022-10-01,Supermercados,Yogur helado,288016.76,68575.4,Real (base pública)
+2022,11,2022-11-01,Supermercados,Yogur helado,192425.58,45815.6,Real (base pública)
+2022,12,2022-12-01,Supermercados,Yogur helado,180475.82,42970.4,Real (base pública)
+2022,1,2022-01-01,Hostelería (HORECA),Tarrinas,236603.47,36400.5,Real (base pública)
+2022,2,2022-02-01,Hostelería (HORECA),Tarrinas,266845.61,41053.2,Real (base pública)
+2022,3,2022-03-01,Hostelería (HORECA),Tarrinas,356225.23,54803.9,Real (base pública)
+2022,4,2022-04-01,Hostelería (HORECA),Tarrinas,455825.27,70127.0,Real (base pública)
+2022,5,2022-05-01,Hostelería (HORECA),Tarrinas,728749.98,112115.4,Real (base pública)
+2022,6,2022-06-01,Hostelería (HORECA),Tarrinas,1006637.86,154867.4,Real (base pública)
+2022,7,2022-07-01,Hostelería (HORECA),Tarrinas,1127179.83,173412.3,Real (base pública)
+2022,8,2022-08-01,Hostelería (HORECA),Tarrinas,1159729.31,178419.9,Real (base pública)
+2022,9,2022-09-01,Hostelería (HORECA),Tarrinas,740383.72,113905.2,Real (base pública)
+2022,10,2022-10-01,Hostelería (HORECA),Tarrinas,443118.45,68172.1,Real (base pública)
+2022,11,2022-11-01,Hostelería (HORECA),Tarrinas,301634.25,46405.3,Real (base pública)
+2022,12,2022-12-01,Hostelería (HORECA),Tarrinas,290059.13,44624.5,Real (base pública)
+2022,1,2022-01-01,Hostelería (HORECA),Bombones y Palo,209713.49,32263.7,Real (base pública)
+2022,2,2022-02-01,Hostelería (HORECA),Bombones y Palo,251695.12,38722.3,Real (base pública)
+2022,3,2022-03-01,Hostelería (HORECA),Bombones y Palo,283998.92,43692.2,Real (base pública)
+2022,4,2022-04-01,Hostelería (HORECA),Bombones y Palo,437446.99,67299.5,Real (base pública)
+2022,5,2022-05-01,Hostelería (HORECA),Bombones y Palo,609567.72,93779.7,Real (base pública)
+2022,6,2022-06-01,Hostelería (HORECA),Bombones y Palo,804801.3,123815.6,Real (base pública)
+2022,7,2022-07-01,Hostelería (HORECA),Bombones y Palo,984917.39,151525.7,Real (base pública)
+2022,8,2022-08-01,Hostelería (HORECA),Bombones y Palo,861963.16,132609.7,Real (base pública)
+2022,9,2022-09-01,Hostelería (HORECA),Bombones y Palo,623346.86,95899.5,Real (base pública)
+2022,10,2022-10-01,Hostelería (HORECA),Bombones y Palo,403922.1,62141.8,Real (base pública)
+2022,11,2022-11-01,Hostelería (HORECA),Bombones y Palo,275750.88,42423.2,Real (base pública)
+2022,12,2022-12-01,Hostelería (HORECA),Bombones y Palo,227384.06,34982.1,Real (base pública)
+2022,1,2022-01-01,Hostelería (HORECA),Postres y Tartas,155074.62,23857.7,Real (base pública)
+2022,2,2022-02-01,Hostelería (HORECA),Postres y Tartas,175059.08,26932.1,Real (base pública)
+2022,3,2022-03-01,Hostelería (HORECA),Postres y Tartas,262895.67,40445.5,Real (base pública)
+2022,4,2022-04-01,Hostelería (HORECA),Postres y Tartas,328527.99,50542.8,Real (base pública)
+2022,5,2022-05-01,Hostelería (HORECA),Postres y Tartas,454499.92,69923.1,Real (base pública)
+2022,6,2022-06-01,Hostelería (HORECA),Postres y Tartas,644602.6,99169.7,Real (base pública)
+2022,7,2022-07-01,Hostelería (HORECA),Postres y Tartas,757829.25,116589.1,Real (base pública)
+2022,8,2022-08-01,Hostelería (HORECA),Postres y Tartas,771868.62,118749.1,Real (base pública)
+2022,9,2022-09-01,Hostelería (HORECA),Postres y Tartas,467804.11,71969.9,Real (base pública)
+2022,10,2022-10-01,Hostelería (HORECA),Postres y Tartas,300257.63,46193.5,Real (base pública)
+2022,11,2022-11-01,Hostelería (HORECA),Postres y Tartas,193647.88,29792.0,Real (base pública)
+2022,12,2022-12-01,Hostelería (HORECA),Postres y Tartas,166424.22,25603.7,Real (base pública)
+2022,1,2022-01-01,Hostelería (HORECA),Cucuruchos/Sándwich,114800.22,17661.5,Real (base pública)
+2022,2,2022-02-01,Hostelería (HORECA),Cucuruchos/Sándwich,127335.44,19590.1,Real (base pública)
+2022,3,2022-03-01,Hostelería (HORECA),Cucuruchos/Sándwich,176017.67,27079.6,Real (base pública)
+2022,4,2022-04-01,Hostelería (HORECA),Cucuruchos/Sándwich,223596.81,34399.5,Real (base pública)
+2022,5,2022-05-01,Hostelería (HORECA),Cucuruchos/Sándwich,303678.79,46719.8,Real (base pública)
+2022,6,2022-06-01,Hostelería (HORECA),Cucuruchos/Sándwich,430678.92,66258.3,Real (base pública)
+2022,7,2022-07-01,Hostelería (HORECA),Cucuruchos/Sándwich,518871.76,79826.4,Real (base pública)
+2022,8,2022-08-01,Hostelería (HORECA),Cucuruchos/Sándwich,494675.93,76104.0,Real (base pública)
+2022,9,2022-09-01,Hostelería (HORECA),Cucuruchos/Sándwich,336639.05,51790.6,Real (base pública)
+2022,10,2022-10-01,Hostelería (HORECA),Cucuruchos/Sándwich,217998.01,33538.1,Real (base pública)
+2022,11,2022-11-01,Hostelería (HORECA),Cucuruchos/Sándwich,151303.85,23277.5,Real (base pública)
+2022,12,2022-12-01,Hostelería (HORECA),Cucuruchos/Sándwich,126791.94,19506.4,Real (base pública)
+2022,1,2022-01-01,Hostelería (HORECA),Yogur helado,81844.34,12591.5,Real (base pública)
+2022,2,2022-02-01,Hostelería (HORECA),Yogur helado,89447.78,13761.2,Real (base pública)
+2022,3,2022-03-01,Hostelería (HORECA),Yogur helado,113635.8,17482.4,Real (base pública)
+2022,4,2022-04-01,Hostelería (HORECA),Yogur helado,161393.32,24829.8,Real (base pública)
+2022,5,2022-05-01,Hostelería (HORECA),Yogur helado,234136.13,36021.0,Real (base pública)
+2022,6,2022-06-01,Hostelería (HORECA),Yogur helado,352939.0,54298.3,Real (base pública)
+2022,7,2022-07-01,Hostelería (HORECA),Yogur helado,373457.49,57455.0,Real (base pública)
+2022,8,2022-08-01,Hostelería (HORECA),Yogur helado,373656.18,57485.5,Real (base pública)
+2022,9,2022-09-01,Hostelería (HORECA),Yogur helado,241990.61,37229.3,Real (base pública)
+2022,10,2022-10-01,Hostelería (HORECA),Yogur helado,143710.63,22109.3,Real (base pública)
+2022,11,2022-11-01,Hostelería (HORECA),Yogur helado,104403.44,16062.0,Real (base pública)
+2022,12,2022-12-01,Hostelería (HORECA),Yogur helado,93157.48,14331.9,Real (base pública)
+2022,1,2022-01-01,Exportación,Tarrinas,184799.33,48631.4,Real (base pública)
+2022,2,2022-02-01,Exportación,Tarrinas,188539.22,49615.6,Real (base pública)
+2022,3,2022-03-01,Exportación,Tarrinas,295924.12,77874.7,Real (base pública)
+2022,4,2022-04-01,Exportación,Tarrinas,330616.16,87004.3,Real (base pública)
+2022,5,2022-05-01,Exportación,Tarrinas,528622.02,139111.1,Real (base pública)
+2022,6,2022-06-01,Exportación,Tarrinas,767036.65,201851.8,Real (base pública)
+2022,7,2022-07-01,Exportación,Tarrinas,788498.74,207499.7,Real (base pública)
+2022,8,2022-08-01,Exportación,Tarrinas,786903.09,207079.8,Real (base pública)
+2022,9,2022-09-01,Exportación,Tarrinas,535962.18,141042.7,Real (base pública)
+2022,10,2022-10-01,Exportación,Tarrinas,327331.62,86139.9,Real (base pública)
+2022,11,2022-11-01,Exportación,Tarrinas,200426.56,52743.9,Real (base pública)
+2022,12,2022-12-01,Exportación,Tarrinas,198197.47,52157.2,Real (base pública)
+2022,1,2022-01-01,Exportación,Bombones y Palo,145882.64,38390.1,Real (base pública)
+2022,2,2022-02-01,Exportación,Bombones y Palo,175237.88,46115.3,Real (base pública)
+2022,3,2022-03-01,Exportación,Bombones y Palo,228640.65,60168.5,Real (base pública)
+2022,4,2022-04-01,Exportación,Bombones y Palo,332010.94,87371.3,Real (base pública)
+2022,5,2022-05-01,Exportación,Bombones y Palo,427648.7,112539.1,Real (base pública)
+2022,6,2022-06-01,Exportación,Bombones y Palo,589496.98,155130.8,Real (base pública)
+2022,7,2022-07-01,Exportación,Bombones y Palo,748218.96,196899.7,Real (base pública)
+2022,8,2022-08-01,Exportación,Bombones y Palo,658661.19,173331.8,Real (base pública)
+2022,9,2022-09-01,Exportación,Bombones y Palo,467454.19,123014.2,Real (base pública)
+2022,10,2022-10-01,Exportación,Bombones y Palo,310033.12,81587.7,Real (base pública)
+2022,11,2022-11-01,Exportación,Bombones y Palo,173168.06,45570.5,Real (base pública)
+2022,12,2022-12-01,Exportación,Bombones y Palo,172764.62,45464.3,Real (base pública)
+2022,1,2022-01-01,Exportación,Postres y Tartas,120052.17,31592.6,Real (base pública)
+2022,2,2022-02-01,Exportación,Postres y Tartas,136827.77,36007.3,Real (base pública)
+2022,3,2022-03-01,Exportación,Postres y Tartas,172950.59,45513.3,Real (base pública)
+2022,4,2022-04-01,Exportación,Postres y Tartas,221375.4,58256.7,Real (base pública)
+2022,5,2022-05-01,Exportación,Postres y Tartas,351303.43,92448.3,Real (base pública)
+2022,6,2022-06-01,Exportación,Postres y Tartas,467724.54,123085.4,Real (base pública)
+2022,7,2022-07-01,Exportación,Postres y Tartas,559983.82,147364.2,Real (base pública)
+2022,8,2022-08-01,Exportación,Postres y Tartas,549241.13,144537.2,Real (base pública)
+2022,9,2022-09-01,Exportación,Postres y Tartas,343447.94,90381.1,Real (base pública)
+2022,10,2022-10-01,Exportación,Postres y Tartas,226455.97,59593.6,Real (base pública)
+2022,11,2022-11-01,Exportación,Postres y Tartas,146970.81,38676.5,Real (base pública)
+2022,12,2022-12-01,Exportación,Postres y Tartas,126976.94,33415.0,Real (base pública)
+2022,1,2022-01-01,Exportación,Cucuruchos/Sándwich,90697.64,23867.8,Real (base pública)
+2022,2,2022-02-01,Exportación,Cucuruchos/Sándwich,94359.97,24831.6,Real (base pública)
+2022,3,2022-03-01,Exportación,Cucuruchos/Sándwich,121359.94,31936.8,Real (base pública)
+2022,4,2022-04-01,Exportación,Cucuruchos/Sándwich,171363.77,45095.7,Real (base pública)
+2022,5,2022-05-01,Exportación,Cucuruchos/Sándwich,227978.51,59994.3,Real (base pública)
+2022,6,2022-06-01,Exportación,Cucuruchos/Sándwich,335312.9,88240.2,Real (base pública)
+2022,7,2022-07-01,Exportación,Cucuruchos/Sándwich,409566.81,107780.7,Real (base pública)
+2022,8,2022-08-01,Exportación,Cucuruchos/Sándwich,362414.56,95372.3,Real (base pública)
+2022,9,2022-09-01,Exportación,Cucuruchos/Sándwich,260863.68,68648.4,Real (base pública)
+2022,10,2022-10-01,Exportación,Cucuruchos/Sándwich,159933.61,42087.8,Real (base pública)
+2022,11,2022-11-01,Exportación,Cucuruchos/Sándwich,105561.37,27779.3,Real (base pública)
+2022,12,2022-12-01,Exportación,Cucuruchos/Sándwich,100918.11,26557.4,Real (base pública)
+2022,1,2022-01-01,Exportación,Yogur helado,58529.07,15402.4,Real (base pública)
+2022,2,2022-02-01,Exportación,Yogur helado,63358.82,16673.4,Real (base pública)
+2022,3,2022-03-01,Exportación,Yogur helado,88076.56,23178.1,Real (base pública)
+2022,4,2022-04-01,Exportación,Yogur helado,113678.04,29915.3,Real (base pública)
+2022,5,2022-05-01,Exportación,Yogur helado,170524.37,44874.8,Real (base pública)
+2022,6,2022-06-01,Exportación,Yogur helado,234371.17,61676.7,Real (base pública)
+2022,7,2022-07-01,Exportación,Yogur helado,280354.13,73777.4,Real (base pública)
+2022,8,2022-08-01,Exportación,Yogur helado,281109.15,73976.1,Real (base pública)
+2022,9,2022-09-01,Exportación,Yogur helado,177883.88,46811.5,Real (base pública)
+2022,10,2022-10-01,Exportación,Yogur helado,120062.77,31595.5,Real (base pública)
+2022,11,2022-11-01,Exportación,Yogur helado,71465.75,18806.7,Real (base pública)
+2022,12,2022-12-01,Exportación,Yogur helado,74794.93,19682.8,Real (base pública)
+2022,1,2022-01-01,Heladerías propias,Tarrinas,83331.59,9259.1,Real (base pública)
+2022,2,2022-02-01,Heladerías propias,Tarrinas,85934.11,9548.3,Real (base pública)
+2022,3,2022-03-01,Heladerías propias,Tarrinas,118964.49,13218.3,Real (base pública)
+2022,4,2022-04-01,Heladerías propias,Tarrinas,165506.11,18389.6,Real (base pública)
+2022,5,2022-05-01,Heladerías propias,Tarrinas,230824.96,25647.2,Real (base pública)
+2022,6,2022-06-01,Heladerías propias,Tarrinas,325455.18,36161.6,Real (base pública)
+2022,7,2022-07-01,Heladerías propias,Tarrinas,386006.83,42889.7,Real (base pública)
+2022,8,2022-08-01,Heladerías propias,Tarrinas,366765.66,40751.8,Real (base pública)
+2022,9,2022-09-01,Heladerías propias,Tarrinas,232147.72,25794.2,Real (base pública)
+2022,10,2022-10-01,Heladerías propias,Tarrinas,141068.85,15674.3,Real (base pública)
+2022,11,2022-11-01,Heladerías propias,Tarrinas,96555.28,10728.4,Real (base pública)
+2022,12,2022-12-01,Heladerías propias,Tarrinas,93626.43,10402.9,Real (base pública)
+2022,1,2022-01-01,Heladerías propias,Bombones y Palo,70779.59,7864.4,Real (base pública)
+2022,2,2022-02-01,Heladerías propias,Bombones y Palo,72964.43,8107.2,Real (base pública)
+2022,3,2022-03-01,Heladerías propias,Bombones y Palo,109878.75,12208.7,Real (base pública)
+2022,4,2022-04-01,Heladerías propias,Bombones y Palo,142758.26,15862.1,Real (base pública)
+2022,5,2022-05-01,Heladerías propias,Bombones y Palo,193368.12,21485.4,Real (base pública)
+2022,6,2022-06-01,Heladerías propias,Bombones y Palo,274431.93,30492.4,Real (base pública)
+2022,7,2022-07-01,Heladerías propias,Bombones y Palo,327757.54,36417.6,Real (base pública)
+2022,8,2022-08-01,Heladerías propias,Bombones y Palo,300793.47,33421.5,Real (base pública)
+2022,9,2022-09-01,Heladerías propias,Bombones y Palo,213848.2,23760.9,Real (base pública)
+2022,10,2022-10-01,Heladerías propias,Bombones y Palo,135987.77,15109.8,Real (base pública)
+2022,11,2022-11-01,Heladerías propias,Bombones y Palo,90227.19,10025.3,Real (base pública)
+2022,12,2022-12-01,Heladerías propias,Bombones y Palo,81910.91,9101.2,Real (base pública)
+2022,1,2022-01-01,Heladerías propias,Postres y Tartas,50158.49,5573.2,Real (base pública)
+2022,2,2022-02-01,Heladerías propias,Postres y Tartas,57048.0,6338.7,Real (base pública)
+2022,3,2022-03-01,Heladerías propias,Postres y Tartas,85954.42,9550.5,Real (base pública)
+2022,4,2022-04-01,Heladerías propias,Postres y Tartas,110506.1,12278.5,Real (base pública)
+2022,5,2022-05-01,Heladerías propias,Postres y Tartas,159629.73,17736.6,Real (base pública)
+2022,6,2022-06-01,Heladerías propias,Postres y Tartas,249846.96,27760.8,Real (base pública)
+2022,7,2022-07-01,Heladerías propias,Postres y Tartas,258565.33,28729.5,Real (base pública)
+2022,8,2022-08-01,Heladerías propias,Postres y Tartas,259337.69,28815.3,Real (base pública)
+2022,9,2022-09-01,Heladerías propias,Postres y Tartas,169316.25,18812.9,Real (base pública)
+2022,10,2022-10-01,Heladerías propias,Postres y Tartas,105066.96,11674.1,Real (base pública)
+2022,11,2022-11-01,Heladerías propias,Postres y Tartas,64802.25,7200.2,Real (base pública)
+2022,12,2022-12-01,Heladerías propias,Postres y Tartas,62126.04,6902.9,Real (base pública)
+2022,1,2022-01-01,Heladerías propias,Cucuruchos/Sándwich,36251.33,4028.0,Real (base pública)
+2022,2,2022-02-01,Heladerías propias,Cucuruchos/Sándwich,41402.14,4600.3,Real (base pública)
+2022,3,2022-03-01,Heladerías propias,Cucuruchos/Sándwich,57234.05,6359.4,Real (base pública)
+2022,4,2022-04-01,Heladerías propias,Cucuruchos/Sándwich,75725.6,8413.9,Real (base pública)
+2022,5,2022-05-01,Heladerías propias,Cucuruchos/Sándwich,121542.88,13504.7,Real (base pública)
+2022,6,2022-06-01,Heladerías propias,Cucuruchos/Sándwich,132952.74,14772.5,Real (base pública)
+2022,7,2022-07-01,Heladerías propias,Cucuruchos/Sándwich,182010.83,20223.4,Real (base pública)
+2022,8,2022-08-01,Heladerías propias,Cucuruchos/Sándwich,157931.0,17547.9,Real (base pública)
+2022,9,2022-09-01,Heladerías propias,Cucuruchos/Sándwich,110455.92,12272.9,Real (base pública)
+2022,10,2022-10-01,Heladerías propias,Cucuruchos/Sándwich,75105.17,8345.0,Real (base pública)
+2022,11,2022-11-01,Heladerías propias,Cucuruchos/Sándwich,46236.21,5137.3,Real (base pública)
+2022,12,2022-12-01,Heladerías propias,Cucuruchos/Sándwich,39640.47,4404.5,Real (base pública)
+2022,1,2022-01-01,Heladerías propias,Yogur helado,25971.28,2885.7,Real (base pública)
+2022,2,2022-02-01,Heladerías propias,Yogur helado,30944.25,3438.2,Real (base pública)
+2022,3,2022-03-01,Heladerías propias,Yogur helado,40368.2,4485.3,Real (base pública)
+2022,4,2022-04-01,Heladerías propias,Yogur helado,54452.21,6050.2,Real (base pública)
+2022,5,2022-05-01,Heladerías propias,Yogur helado,77988.35,8665.4,Real (base pública)
+2022,6,2022-06-01,Heladerías propias,Yogur helado,101333.02,11259.2,Real (base pública)
+2022,7,2022-07-01,Heladerías propias,Yogur helado,139168.9,15463.2,Real (base pública)
+2022,8,2022-08-01,Heladerías propias,Yogur helado,126591.19,14065.7,Real (base pública)
+2022,9,2022-09-01,Heladerías propias,Yogur helado,72621.82,8069.1,Real (base pública)
+2022,10,2022-10-01,Heladerías propias,Yogur helado,51350.76,5705.6,Real (base pública)
+2022,11,2022-11-01,Heladerías propias,Yogur helado,31830.75,3536.7,Real (base pública)
+2022,12,2022-12-01,Heladerías propias,Yogur helado,31202.88,3467.0,Real (base pública)
+2023,1,2023-01-01,Supermercados,Tarrinas,480496.53,114403.9,Real (base pública)
+2023,2,2023-02-01,Supermercados,Tarrinas,552724.51,131601.1,Real (base pública)
+2023,3,2023-03-01,Supermercados,Tarrinas,797930.22,189983.4,Real (base pública)
+2023,4,2023-04-01,Supermercados,Tarrinas,1043960.31,248562.0,Real (base pública)
+2023,5,2023-05-01,Supermercados,Tarrinas,1358631.64,323483.7,Real (base pública)
+2023,6,2023-06-01,Supermercados,Tarrinas,1913155.99,455513.4,Real (base pública)
+2023,7,2023-07-01,Supermercados,Tarrinas,2279391.49,542712.3,Real (base pública)
+2023,8,2023-08-01,Supermercados,Tarrinas,2204791.22,524950.3,Real (base pública)
+2023,9,2023-09-01,Supermercados,Tarrinas,1633461.39,388919.3,Real (base pública)
+2023,10,2023-10-01,Supermercados,Tarrinas,964189.74,229568.9,Real (base pública)
+2023,11,2023-11-01,Supermercados,Tarrinas,572953.21,136417.4,Real (base pública)
+2023,12,2023-12-01,Supermercados,Tarrinas,581426.29,138434.9,Real (base pública)
+2023,1,2023-01-01,Supermercados,Bombones y Palo,479622.36,114195.8,Real (base pública)
+2023,2,2023-02-01,Supermercados,Bombones y Palo,506663.54,120634.2,Real (base pública)
+2023,3,2023-03-01,Supermercados,Bombones y Palo,623267.2,148397.0,Real (base pública)
+2023,4,2023-04-01,Supermercados,Bombones y Palo,846228.35,201483.0,Real (base pública)
+2023,5,2023-05-01,Supermercados,Bombones y Palo,1332009.22,317145.0,Real (base pública)
+2023,6,2023-06-01,Supermercados,Bombones y Palo,1626605.38,387287.0,Real (base pública)
+2023,7,2023-07-01,Supermercados,Bombones y Palo,2068429.83,492483.3,Real (base pública)
+2023,8,2023-08-01,Supermercados,Bombones y Palo,2051855.18,488536.9,Real (base pública)
+2023,9,2023-09-01,Supermercados,Bombones y Palo,1240548.71,295368.7,Real (base pública)
+2023,10,2023-10-01,Supermercados,Bombones y Palo,816608.47,194430.5,Real (base pública)
+2023,11,2023-11-01,Supermercados,Bombones y Palo,444082.15,105733.9,Real (base pública)
+2023,12,2023-12-01,Supermercados,Bombones y Palo,457114.78,108836.9,Real (base pública)
+2023,1,2023-01-01,Supermercados,Postres y Tartas,329336.03,78413.4,Real (base pública)
+2023,2,2023-02-01,Supermercados,Postres y Tartas,347487.13,82735.0,Real (base pública)
+2023,3,2023-03-01,Supermercados,Postres y Tartas,561201.84,133619.4,Real (base pública)
+2023,4,2023-04-01,Supermercados,Postres y Tartas,619394.31,147474.8,Real (base pública)
+2023,5,2023-05-01,Supermercados,Postres y Tartas,942382.74,224376.9,Real (base pública)
+2023,6,2023-06-01,Supermercados,Postres y Tartas,1305611.33,310859.8,Real (base pública)
+2023,7,2023-07-01,Supermercados,Postres y Tartas,1668729.63,397316.6,Real (base pública)
+2023,8,2023-08-01,Supermercados,Postres y Tartas,1410407.97,335811.4,Real (base pública)
+2023,9,2023-09-01,Supermercados,Postres y Tartas,1058840.32,252104.8,Real (base pública)
+2023,10,2023-10-01,Supermercados,Postres y Tartas,630357.87,150085.2,Real (base pública)
+2023,11,2023-11-01,Supermercados,Postres y Tartas,387663.46,92300.8,Real (base pública)
+2023,12,2023-12-01,Supermercados,Postres y Tartas,379172.11,90279.1,Real (base pública)
+2023,1,2023-01-01,Supermercados,Cucuruchos/Sándwich,235807.61,56144.7,Real (base pública)
+2023,2,2023-02-01,Supermercados,Cucuruchos/Sándwich,251640.79,59914.5,Real (base pública)
+2023,3,2023-03-01,Supermercados,Cucuruchos/Sándwich,364464.54,86777.3,Real (base pública)
+2023,4,2023-04-01,Supermercados,Cucuruchos/Sándwich,457971.06,109040.8,Real (base pública)
+2023,5,2023-05-01,Supermercados,Cucuruchos/Sándwich,678337.03,161508.8,Real (base pública)
+2023,6,2023-06-01,Supermercados,Cucuruchos/Sándwich,938052.84,223345.9,Real (base pública)
+2023,7,2023-07-01,Supermercados,Cucuruchos/Sándwich,1175996.3,279999.1,Real (base pública)
+2023,8,2023-08-01,Supermercados,Cucuruchos/Sándwich,997818.18,237575.8,Real (base pública)
+2023,9,2023-09-01,Supermercados,Cucuruchos/Sándwich,775155.54,184560.8,Real (base pública)
+2023,10,2023-10-01,Supermercados,Cucuruchos/Sándwich,397978.9,94756.9,Real (base pública)
+2023,11,2023-11-01,Supermercados,Cucuruchos/Sándwich,283203.29,67429.3,Real (base pública)
+2023,12,2023-12-01,Supermercados,Cucuruchos/Sándwich,267057.64,63585.2,Real (base pública)
+2023,1,2023-01-01,Supermercados,Yogur helado,169117.21,40266.0,Real (base pública)
+2023,2,2023-02-01,Supermercados,Yogur helado,179535.11,42746.4,Real (base pública)
+2023,3,2023-03-01,Supermercados,Yogur helado,256726.76,61125.4,Real (base pública)
+2023,4,2023-04-01,Supermercados,Yogur helado,325326.24,77458.7,Real (base pública)
+2023,5,2023-05-01,Supermercados,Yogur helado,467594.31,111332.0,Real (base pública)
+2023,6,2023-06-01,Supermercados,Yogur helado,676117.13,160980.2,Real (base pública)
+2023,7,2023-07-01,Supermercados,Yogur helado,792172.05,188612.4,Real (base pública)
+2023,8,2023-08-01,Supermercados,Yogur helado,733426.85,174625.4,Real (base pública)
+2023,9,2023-09-01,Supermercados,Yogur helado,522826.81,124482.5,Real (base pública)
+2023,10,2023-10-01,Supermercados,Yogur helado,319858.0,76156.6,Real (base pública)
+2023,11,2023-11-01,Supermercados,Yogur helado,212119.51,50504.7,Real (base pública)
+2023,12,2023-12-01,Supermercados,Yogur helado,191138.21,45509.1,Real (base pública)
+2023,1,2023-01-01,Hostelería (HORECA),Tarrinas,250217.79,38495.1,Real (base pública)
+2023,2,2023-02-01,Hostelería (HORECA),Tarrinas,281918.12,43372.0,Real (base pública)
+2023,3,2023-03-01,Hostelería (HORECA),Tarrinas,421230.95,64804.8,Real (base pública)
+2023,4,2023-04-01,Hostelería (HORECA),Tarrinas,538008.44,82770.5,Real (base pública)
+2023,5,2023-05-01,Hostelería (HORECA),Tarrinas,753320.9,115895.5,Real (base pública)
+2023,6,2023-06-01,Hostelería (HORECA),Tarrinas,1021101.96,157092.6,Real (base pública)
+2023,7,2023-07-01,Hostelería (HORECA),Tarrinas,1295997.12,199384.1,Real (base pública)
+2023,8,2023-08-01,Hostelería (HORECA),Tarrinas,1153997.89,177538.1,Real (base pública)
+2023,9,2023-09-01,Hostelería (HORECA),Tarrinas,804535.16,123774.6,Real (base pública)
+2023,10,2023-10-01,Hostelería (HORECA),Tarrinas,488086.5,75090.2,Real (base pública)
+2023,11,2023-11-01,Hostelería (HORECA),Tarrinas,315573.6,48549.8,Real (base pública)
+2023,12,2023-12-01,Hostelería (HORECA),Tarrinas,305976.5,47073.3,Real (base pública)
+2023,1,2023-01-01,Hostelería (HORECA),Bombones y Palo,235569.51,36241.4,Real (base pública)
+2023,2,2023-02-01,Hostelería (HORECA),Bombones y Palo,261594.25,40245.3,Real (base pública)
+2023,3,2023-03-01,Hostelería (HORECA),Bombones y Palo,374888.58,57675.2,Real (base pública)
+2023,4,2023-04-01,Hostelería (HORECA),Bombones y Palo,452940.58,69683.2,Real (base pública)
+2023,5,2023-05-01,Hostelería (HORECA),Bombones y Palo,675846.03,103976.3,Real (base pública)
+2023,6,2023-06-01,Hostelería (HORECA),Bombones y Palo,866145.3,133253.2,Real (base pública)
+2023,7,2023-07-01,Hostelería (HORECA),Bombones y Palo,1072864.58,165056.1,Real (base pública)
+2023,8,2023-08-01,Hostelería (HORECA),Bombones y Palo,1023909.26,157524.5,Real (base pública)
+2023,9,2023-09-01,Hostelería (HORECA),Bombones y Palo,681989.65,104921.5,Real (base pública)
+2023,10,2023-10-01,Hostelería (HORECA),Bombones y Palo,440044.81,67699.2,Real (base pública)
+2023,11,2023-11-01,Hostelería (HORECA),Bombones y Palo,265194.46,40799.2,Real (base pública)
+2023,12,2023-12-01,Hostelería (HORECA),Bombones y Palo,277667.8,42718.1,Real (base pública)
+2023,1,2023-01-01,Hostelería (HORECA),Postres y Tartas,165271.54,25426.3,Real (base pública)
+2023,2,2023-02-01,Hostelería (HORECA),Postres y Tartas,181622.43,27941.9,Real (base pública)
+2023,3,2023-03-01,Hostelería (HORECA),Postres y Tartas,286381.16,44058.6,Real (base pública)
+2023,4,2023-04-01,Hostelería (HORECA),Postres y Tartas,361827.24,55665.7,Real (base pública)
+2023,5,2023-05-01,Hostelería (HORECA),Postres y Tartas,518427.82,79758.1,Real (base pública)
+2023,6,2023-06-01,Hostelería (HORECA),Postres y Tartas,698026.59,107388.7,Real (base pública)
+2023,7,2023-07-01,Hostelería (HORECA),Postres y Tartas,811620.1,124864.6,Real (base pública)
+2023,8,2023-08-01,Hostelería (HORECA),Postres y Tartas,757214.94,116494.6,Real (base pública)
+2023,9,2023-09-01,Hostelería (HORECA),Postres y Tartas,524054.25,80623.7,Real (base pública)
+2023,10,2023-10-01,Hostelería (HORECA),Postres y Tartas,317584.55,48859.2,Real (base pública)
+2023,11,2023-11-01,Hostelería (HORECA),Postres y Tartas,223067.69,34318.1,Real (base pública)
+2023,12,2023-12-01,Hostelería (HORECA),Postres y Tartas,191939.52,29529.2,Real (base pública)
+2023,1,2023-01-01,Hostelería (HORECA),Cucuruchos/Sándwich,116789.6,17967.6,Real (base pública)
+2023,2,2023-02-01,Hostelería (HORECA),Cucuruchos/Sándwich,133177.87,20488.9,Real (base pública)
+2023,3,2023-03-01,Hostelería (HORECA),Cucuruchos/Sándwich,193406.46,29754.9,Real (base pública)
+2023,4,2023-04-01,Hostelería (HORECA),Cucuruchos/Sándwich,236768.06,36425.9,Real (base pública)
+2023,5,2023-05-01,Hostelería (HORECA),Cucuruchos/Sándwich,337449.84,51915.3,Real (base pública)
+2023,6,2023-06-01,Hostelería (HORECA),Cucuruchos/Sándwich,479507.3,73770.3,Real (base pública)
+2023,7,2023-07-01,Hostelería (HORECA),Cucuruchos/Sándwich,575445.13,88530.0,Real (base pública)
+2023,8,2023-08-01,Hostelería (HORECA),Cucuruchos/Sándwich,540880.55,83212.4,Real (base pública)
+2023,9,2023-09-01,Hostelería (HORECA),Cucuruchos/Sándwich,356845.71,54899.3,Real (base pública)
+2023,10,2023-10-01,Hostelería (HORECA),Cucuruchos/Sándwich,232769.66,35810.7,Real (base pública)
+2023,11,2023-11-01,Hostelería (HORECA),Cucuruchos/Sándwich,138108.05,21247.4,Real (base pública)
+2023,12,2023-12-01,Hostelería (HORECA),Cucuruchos/Sándwich,125827.69,19358.1,Real (base pública)
+2023,1,2023-01-01,Hostelería (HORECA),Yogur helado,83886.9,12905.6,Real (base pública)
+2023,2,2023-02-01,Hostelería (HORECA),Yogur helado,95648.83,14715.2,Real (base pública)
+2023,3,2023-03-01,Hostelería (HORECA),Yogur helado,137457.01,21147.3,Real (base pública)
+2023,4,2023-04-01,Hostelería (HORECA),Yogur helado,186862.61,28748.1,Real (base pública)
+2023,5,2023-05-01,Hostelería (HORECA),Yogur helado,262149.15,40330.7,Real (base pública)
+2023,6,2023-06-01,Hostelería (HORECA),Yogur helado,335676.23,51642.5,Real (base pública)
+2023,7,2023-07-01,Hostelería (HORECA),Yogur helado,405672.61,62411.2,Real (base pública)
+2023,8,2023-08-01,Hostelería (HORECA),Yogur helado,376520.97,57926.3,Real (base pública)
+2023,9,2023-09-01,Hostelería (HORECA),Yogur helado,260796.1,40122.5,Real (base pública)
+2023,10,2023-10-01,Hostelería (HORECA),Yogur helado,161984.94,24920.8,Real (base pública)
+2023,11,2023-11-01,Hostelería (HORECA),Yogur helado,108064.74,16625.3,Real (base pública)
+2023,12,2023-12-01,Hostelería (HORECA),Yogur helado,92681.78,14258.7,Real (base pública)
+2023,1,2023-01-01,Exportación,Tarrinas,245498.17,64604.8,Real (base pública)
+2023,2,2023-02-01,Exportación,Tarrinas,286247.37,75328.2,Real (base pública)
+2023,3,2023-03-01,Exportación,Tarrinas,370196.33,97420.1,Real (base pública)
+2023,4,2023-04-01,Exportación,Tarrinas,488181.52,128468.9,Real (base pública)
+2023,5,2023-05-01,Exportación,Tarrinas,715120.26,188189.5,Real (base pública)
+2023,6,2023-06-01,Exportación,Tarrinas,911883.37,239969.4,Real (base pública)
+2023,7,2023-07-01,Exportación,Tarrinas,1129173.18,297150.9,Real (base pública)
+2023,8,2023-08-01,Exportación,Tarrinas,1090760.57,287042.2,Real (base pública)
+2023,9,2023-09-01,Exportación,Tarrinas,721359.63,189831.5,Real (base pública)
+2023,10,2023-10-01,Exportación,Tarrinas,434512.67,114345.5,Real (base pública)
+2023,11,2023-11-01,Exportación,Tarrinas,292817.35,77057.2,Real (base pública)
+2023,12,2023-12-01,Exportación,Tarrinas,272491.95,71708.4,Real (base pública)
+2023,1,2023-01-01,Exportación,Bombones y Palo,222426.88,58533.4,Real (base pública)
+2023,2,2023-02-01,Exportación,Bombones y Palo,241474.06,63545.9,Real (base pública)
+2023,3,2023-03-01,Exportación,Bombones y Palo,357320.95,94031.8,Real (base pública)
+2023,4,2023-04-01,Exportación,Bombones y Palo,398846.7,104959.7,Real (base pública)
+2023,5,2023-05-01,Exportación,Bombones y Palo,625227.97,164533.7,Real (base pública)
+2023,6,2023-06-01,Exportación,Bombones y Palo,813870.75,214176.5,Real (base pública)
+2023,7,2023-07-01,Exportación,Bombones y Palo,1073734.85,282561.9,Real (base pública)
+2023,8,2023-08-01,Exportación,Bombones y Palo,906549.77,238565.8,Real (base pública)
+2023,9,2023-09-01,Exportación,Bombones y Palo,596018.7,156847.0,Real (base pública)
+2023,10,2023-10-01,Exportación,Bombones y Palo,379978.1,99994.3,Real (base pública)
+2023,11,2023-11-01,Exportación,Bombones y Palo,226547.81,59617.8,Real (base pública)
+2023,12,2023-12-01,Exportación,Bombones y Palo,224364.91,59043.4,Real (base pública)
+2023,1,2023-01-01,Exportación,Postres y Tartas,153468.1,40386.3,Real (base pública)
+2023,2,2023-02-01,Exportación,Postres y Tartas,178580.69,46995.0,Real (base pública)
+2023,3,2023-03-01,Exportación,Postres y Tartas,252387.27,66417.7,Real (base pública)
+2023,4,2023-04-01,Exportación,Postres y Tartas,348975.37,91835.6,Real (base pública)
+2023,5,2023-05-01,Exportación,Postres y Tartas,482744.27,127037.9,Real (base pública)
+2023,6,2023-06-01,Exportación,Postres y Tartas,602472.83,158545.5,Real (base pública)
+2023,7,2023-07-01,Exportación,Postres y Tartas,711000.1,187105.3,Real (base pública)
+2023,8,2023-08-01,Exportación,Postres y Tartas,744590.43,195944.9,Real (base pública)
+2023,9,2023-09-01,Exportación,Postres y Tartas,446978.03,117625.8,Real (base pública)
+2023,10,2023-10-01,Exportación,Postres y Tartas,328914.21,86556.4,Real (base pública)
+2023,11,2023-11-01,Exportación,Postres y Tartas,206470.56,54334.4,Real (base pública)
+2023,12,2023-12-01,Exportación,Postres y Tartas,173089.82,45550.0,Real (base pública)
+2023,1,2023-01-01,Exportación,Cucuruchos/Sándwich,102101.18,26868.7,Real (base pública)
+2023,2,2023-02-01,Exportación,Cucuruchos/Sándwich,132472.47,34861.2,Real (base pública)
+2023,3,2023-03-01,Exportación,Cucuruchos/Sándwich,172708.09,45449.5,Real (base pública)
+2023,4,2023-04-01,Exportación,Cucuruchos/Sándwich,237154.5,62409.1,Real (base pública)
+2023,5,2023-05-01,Exportación,Cucuruchos/Sándwich,296873.66,78124.7,Real (base pública)
+2023,6,2023-06-01,Exportación,Cucuruchos/Sándwich,421243.06,110853.4,Real (base pública)
+2023,7,2023-07-01,Exportación,Cucuruchos/Sándwich,521245.28,137169.8,Real (base pública)
+2023,8,2023-08-01,Exportación,Cucuruchos/Sándwich,509896.26,134183.2,Real (base pública)
+2023,9,2023-09-01,Exportación,Cucuruchos/Sándwich,327459.86,86173.6,Real (base pública)
+2023,10,2023-10-01,Exportación,Cucuruchos/Sándwich,217493.66,57235.2,Real (base pública)
+2023,11,2023-11-01,Exportación,Cucuruchos/Sándwich,129195.35,33998.7,Real (base pública)
+2023,12,2023-12-01,Exportación,Cucuruchos/Sándwich,123190.21,32418.5,Real (base pública)
+2023,1,2023-01-01,Exportación,Yogur helado,80241.28,21116.1,Real (base pública)
+2023,2,2023-02-01,Exportación,Yogur helado,90903.5,23922.0,Real (base pública)
+2023,3,2023-03-01,Exportación,Yogur helado,128488.11,33812.7,Real (base pública)
+2023,4,2023-04-01,Exportación,Yogur helado,150552.75,39619.2,Real (base pública)
+2023,5,2023-05-01,Exportación,Yogur helado,212747.5,55986.2,Real (base pública)
+2023,6,2023-06-01,Exportación,Yogur helado,329999.46,86841.9,Real (base pública)
+2023,7,2023-07-01,Exportación,Yogur helado,378405.17,99580.3,Real (base pública)
+2023,8,2023-08-01,Exportación,Yogur helado,349759.65,92042.0,Real (base pública)
+2023,9,2023-09-01,Exportación,Yogur helado,257842.93,67853.5,Real (base pública)
+2023,10,2023-10-01,Exportación,Yogur helado,151532.05,39876.8,Real (base pública)
+2023,11,2023-11-01,Exportación,Yogur helado,103234.58,27167.0,Real (base pública)
+2023,12,2023-12-01,Exportación,Yogur helado,88923.11,23400.8,Real (base pública)
+2023,1,2023-01-01,Heladerías propias,Tarrinas,95978.13,10664.3,Real (base pública)
+2023,2,2023-02-01,Heladerías propias,Tarrinas,105166.02,11685.1,Real (base pública)
+2023,3,2023-03-01,Heladerías propias,Tarrinas,133668.0,14852.0,Real (base pública)
+2023,4,2023-04-01,Heladerías propias,Tarrinas,182479.05,20275.5,Real (base pública)
+2023,5,2023-05-01,Heladerías propias,Tarrinas,259481.07,28831.2,Real (base pública)
+2023,6,2023-06-01,Heladerías propias,Tarrinas,361538.28,40171.0,Real (base pública)
+2023,7,2023-07-01,Heladerías propias,Tarrinas,386467.92,42940.9,Real (base pública)
+2023,8,2023-08-01,Heladerías propias,Tarrinas,409987.85,45554.2,Real (base pública)
+2023,9,2023-09-01,Heladerías propias,Tarrinas,274852.17,30539.1,Real (base pública)
+2023,10,2023-10-01,Heladerías propias,Tarrinas,149904.02,16656.0,Real (base pública)
+2023,11,2023-11-01,Heladerías propias,Tarrinas,100056.81,11117.4,Real (base pública)
+2023,12,2023-12-01,Heladerías propias,Tarrinas,86822.92,9647.0,Real (base pública)
+2023,1,2023-01-01,Heladerías propias,Bombones y Palo,74395.09,8266.1,Real (base pública)
+2023,2,2023-02-01,Heladerías propias,Bombones y Palo,86796.03,9644.0,Real (base pública)
+2023,3,2023-03-01,Heladerías propias,Bombones y Palo,126117.61,14013.1,Real (base pública)
+2023,4,2023-04-01,Heladerías propias,Bombones y Palo,151380.56,16820.0,Real (base pública)
+2023,5,2023-05-01,Heladerías propias,Bombones y Palo,235593.71,26177.1,Real (base pública)
+2023,6,2023-06-01,Heladerías propias,Bombones y Palo,273027.87,30336.4,Real (base pública)
+2023,7,2023-07-01,Heladerías propias,Bombones y Palo,321945.02,35771.7,Real (base pública)
+2023,8,2023-08-01,Heladerías propias,Bombones y Palo,342584.41,38064.9,Real (base pública)
+2023,9,2023-09-01,Heladerías propias,Bombones y Palo,230577.11,25619.7,Real (base pública)
+2023,10,2023-10-01,Heladerías propias,Bombones y Palo,142209.96,15801.1,Real (base pública)
+2023,11,2023-11-01,Heladerías propias,Bombones y Palo,82641.19,9182.4,Real (base pública)
+2023,12,2023-12-01,Heladerías propias,Bombones y Palo,83416.53,9268.5,Real (base pública)
+2023,1,2023-01-01,Heladerías propias,Postres y Tartas,54224.88,6025.0,Real (base pública)
+2023,2,2023-02-01,Heladerías propias,Postres y Tartas,66611.9,7401.3,Real (base pública)
+2023,3,2023-03-01,Heladerías propias,Postres y Tartas,91889.27,10209.9,Real (base pública)
+2023,4,2023-04-01,Heladerías propias,Postres y Tartas,110564.68,12285.0,Real (base pública)
+2023,5,2023-05-01,Heladerías propias,Postres y Tartas,163274.1,18141.6,Real (base pública)
+2023,6,2023-06-01,Heladerías propias,Postres y Tartas,213640.87,23737.9,Real (base pública)
+2023,7,2023-07-01,Heladerías propias,Postres y Tartas,269857.42,29984.1,Real (base pública)
+2023,8,2023-08-01,Heladerías propias,Postres y Tartas,276880.74,30764.6,Real (base pública)
+2023,9,2023-09-01,Heladerías propias,Postres y Tartas,165448.09,18383.1,Real (base pública)
+2023,10,2023-10-01,Heladerías propias,Postres y Tartas,112332.85,12481.4,Real (base pública)
+2023,11,2023-11-01,Heladerías propias,Postres y Tartas,69019.4,7668.9,Real (base pública)
+2023,12,2023-12-01,Heladerías propias,Postres y Tartas,61898.58,6877.7,Real (base pública)
+2023,1,2023-01-01,Heladerías propias,Cucuruchos/Sándwich,40388.56,4487.6,Real (base pública)
+2023,2,2023-02-01,Heladerías propias,Cucuruchos/Sándwich,42782.25,4753.6,Real (base pública)
+2023,3,2023-03-01,Heladerías propias,Cucuruchos/Sándwich,61416.13,6824.0,Real (base pública)
+2023,4,2023-04-01,Heladerías propias,Cucuruchos/Sándwich,76347.65,8483.0,Real (base pública)
+2023,5,2023-05-01,Heladerías propias,Cucuruchos/Sándwich,128829.53,14314.4,Real (base pública)
+2023,6,2023-06-01,Heladerías propias,Cucuruchos/Sándwich,158190.14,17576.7,Real (base pública)
+2023,7,2023-07-01,Heladerías propias,Cucuruchos/Sándwich,182864.36,20318.3,Real (base pública)
+2023,8,2023-08-01,Heladerías propias,Cucuruchos/Sándwich,186961.42,20773.5,Real (base pública)
+2023,9,2023-09-01,Heladerías propias,Cucuruchos/Sándwich,121133.43,13459.2,Real (base pública)
+2023,10,2023-10-01,Heladerías propias,Cucuruchos/Sándwich,75852.55,8428.1,Real (base pública)
+2023,11,2023-11-01,Heladerías propias,Cucuruchos/Sándwich,51153.43,5683.7,Real (base pública)
+2023,12,2023-12-01,Heladerías propias,Cucuruchos/Sándwich,46826.48,5203.0,Real (base pública)
+2023,1,2023-01-01,Heladerías propias,Yogur helado,28234.86,3137.2,Real (base pública)
+2023,2,2023-02-01,Heladerías propias,Yogur helado,31299.03,3477.7,Real (base pública)
+2023,3,2023-03-01,Heladerías propias,Yogur helado,44497.15,4944.1,Real (base pública)
+2023,4,2023-04-01,Heladerías propias,Yogur helado,51331.85,5703.5,Real (base pública)
+2023,5,2023-05-01,Heladerías propias,Yogur helado,77442.01,8604.6,Real (base pública)
+2023,6,2023-06-01,Heladerías propias,Yogur helado,120502.85,13389.2,Real (base pública)
+2023,7,2023-07-01,Heladerías propias,Yogur helado,146485.45,16276.2,Real (base pública)
+2023,8,2023-08-01,Heladerías propias,Yogur helado,130484.95,14498.3,Real (base pública)
+2023,9,2023-09-01,Heladerías propias,Yogur helado,89520.96,9946.8,Real (base pública)
+2023,10,2023-10-01,Heladerías propias,Yogur helado,55638.3,6182.0,Real (base pública)
+2023,11,2023-11-01,Heladerías propias,Yogur helado,40906.82,4545.2,Real (base pública)
+2023,12,2023-12-01,Heladerías propias,Yogur helado,34030.9,3781.2,Real (base pública)
+2024,1,2024-01-01,Supermercados,Tarrinas,538240.81,128152.6,Real (base pública)
+2024,2,2024-02-01,Supermercados,Tarrinas,573138.24,136461.5,Real (base pública)
+2024,3,2024-03-01,Supermercados,Tarrinas,774969.15,184516.4,Real (base pública)
+2024,4,2024-04-01,Supermercados,Tarrinas,1094432.73,260579.2,Real (base pública)
+2024,5,2024-05-01,Supermercados,Tarrinas,1505745.31,358510.7,Real (base pública)
+2024,6,2024-06-01,Supermercados,Tarrinas,1956824.19,465910.6,Real (base pública)
+2024,7,2024-07-01,Supermercados,Tarrinas,2446233.5,582436.5,Real (base pública)
+2024,8,2024-08-01,Supermercados,Tarrinas,2334318.92,555790.2,Real (base pública)
+2024,9,2024-09-01,Supermercados,Tarrinas,1762206.57,419573.0,Real (base pública)
+2024,10,2024-10-01,Supermercados,Tarrinas,1068327.13,254363.6,Real (base pública)
+2024,11,2024-11-01,Supermercados,Tarrinas,661820.57,157576.3,Real (base pública)
+2024,12,2024-12-01,Supermercados,Tarrinas,646433.55,153912.8,Real (base pública)
+2024,1,2024-01-01,Supermercados,Bombones y Palo,471294.23,112212.9,Real (base pública)
+2024,2,2024-02-01,Supermercados,Bombones y Palo,499178.21,118851.9,Real (base pública)
+2024,3,2024-03-01,Supermercados,Bombones y Palo,785916.08,187122.8,Real (base pública)
+2024,4,2024-04-01,Supermercados,Bombones y Palo,964256.84,229584.9,Real (base pública)
+2024,5,2024-05-01,Supermercados,Bombones y Palo,1285930.76,306174.0,Real (base pública)
+2024,6,2024-06-01,Supermercados,Bombones y Palo,1808372.63,430565.0,Real (base pública)
+2024,7,2024-07-01,Supermercados,Bombones y Palo,2094978.28,498804.3,Real (base pública)
+2024,8,2024-08-01,Supermercados,Bombones y Palo,1990861.54,474014.7,Real (base pública)
+2024,9,2024-09-01,Supermercados,Bombones y Palo,1473657.3,350870.8,Real (base pública)
+2024,10,2024-10-01,Supermercados,Bombones y Palo,971454.73,231298.7,Real (base pública)
+2024,11,2024-11-01,Supermercados,Bombones y Palo,533681.2,127067.0,Real (base pública)
+2024,12,2024-12-01,Supermercados,Bombones y Palo,536325.76,127696.6,Real (base pública)
+2024,1,2024-01-01,Supermercados,Postres y Tartas,349388.45,83187.8,Real (base pública)
+2024,2,2024-02-01,Supermercados,Postres y Tartas,391490.05,93211.9,Real (base pública)
+2024,3,2024-03-01,Supermercados,Postres y Tartas,545129.24,129792.7,Real (base pública)
+2024,4,2024-04-01,Supermercados,Postres y Tartas,691072.09,164541.0,Real (base pública)
+2024,5,2024-05-01,Supermercados,Postres y Tartas,1045815.75,249003.8,Real (base pública)
+2024,6,2024-06-01,Supermercados,Postres y Tartas,1346071.45,320493.2,Real (base pública)
+2024,7,2024-07-01,Supermercados,Postres y Tartas,1708096.11,406689.6,Real (base pública)
+2024,8,2024-08-01,Supermercados,Postres y Tartas,1641047.12,390725.5,Real (base pública)
+2024,9,2024-09-01,Supermercados,Postres y Tartas,1070467.05,254873.1,Real (base pública)
+2024,10,2024-10-01,Supermercados,Postres y Tartas,651193.04,155045.9,Real (base pública)
+2024,11,2024-11-01,Supermercados,Postres y Tartas,428660.62,102062.1,Real (base pública)
+2024,12,2024-12-01,Supermercados,Postres y Tartas,416418.87,99147.4,Real (base pública)
+2024,1,2024-01-01,Supermercados,Cucuruchos/Sándwich,259127.39,61697.0,Real (base pública)
+2024,2,2024-02-01,Supermercados,Cucuruchos/Sándwich,267155.34,63608.4,Real (base pública)
+2024,3,2024-03-01,Supermercados,Cucuruchos/Sándwich,395191.13,94093.2,Real (base pública)
+2024,4,2024-04-01,Supermercados,Cucuruchos/Sándwich,524586.56,124901.6,Real (base pública)
+2024,5,2024-05-01,Supermercados,Cucuruchos/Sándwich,669340.99,159366.9,Real (base pública)
+2024,6,2024-06-01,Supermercados,Cucuruchos/Sándwich,1009803.9,240429.5,Real (base pública)
+2024,7,2024-07-01,Supermercados,Cucuruchos/Sándwich,1140628.86,271578.3,Real (base pública)
+2024,8,2024-08-01,Supermercados,Cucuruchos/Sándwich,1184481.57,282019.4,Real (base pública)
+2024,9,2024-09-01,Supermercados,Cucuruchos/Sándwich,729445.38,173677.4,Real (base pública)
+2024,10,2024-10-01,Supermercados,Cucuruchos/Sándwich,434411.5,103431.3,Real (base pública)
+2024,11,2024-11-01,Supermercados,Cucuruchos/Sándwich,283829.45,67578.4,Real (base pública)
+2024,12,2024-12-01,Supermercados,Cucuruchos/Sándwich,281559.65,67038.0,Real (base pública)
+2024,1,2024-01-01,Supermercados,Yogur helado,182913.39,43550.8,Real (base pública)
+2024,2,2024-02-01,Supermercados,Yogur helado,191559.94,45609.5,Real (base pública)
+2024,3,2024-03-01,Supermercados,Yogur helado,289852.87,69012.6,Real (base pública)
+2024,4,2024-04-01,Supermercados,Yogur helado,331135.18,78841.7,Real (base pública)
+2024,5,2024-05-01,Supermercados,Yogur helado,519918.83,123790.2,Real (base pública)
+2024,6,2024-06-01,Supermercados,Yogur helado,659691.4,157069.4,Real (base pública)
+2024,7,2024-07-01,Supermercados,Yogur helado,815189.41,194092.7,Real (base pública)
+2024,8,2024-08-01,Supermercados,Yogur helado,824539.31,196318.9,Real (base pública)
+2024,9,2024-09-01,Supermercados,Yogur helado,518400.96,123428.8,Real (base pública)
+2024,10,2024-10-01,Supermercados,Yogur helado,334515.74,79646.6,Real (base pública)
+2024,11,2024-11-01,Supermercados,Yogur helado,231799.01,55190.2,Real (base pública)
+2024,12,2024-12-01,Supermercados,Yogur helado,194844.53,46391.6,Real (base pública)
+2024,1,2024-01-01,Hostelería (HORECA),Tarrinas,294438.5,45298.3,Real (base pública)
+2024,2,2024-02-01,Hostelería (HORECA),Tarrinas,296293.96,45583.7,Real (base pública)
+2024,3,2024-03-01,Hostelería (HORECA),Tarrinas,451291.33,69429.4,Real (base pública)
+2024,4,2024-04-01,Hostelería (HORECA),Tarrinas,606000.81,93230.9,Real (base pública)
+2024,5,2024-05-01,Hostelería (HORECA),Tarrinas,715580.78,110089.3,Real (base pública)
+2024,6,2024-06-01,Hostelería (HORECA),Tarrinas,1055318.72,162356.7,Real (base pública)
+2024,7,2024-07-01,Hostelería (HORECA),Tarrinas,1356991.16,208767.9,Real (base pública)
+2024,8,2024-08-01,Hostelería (HORECA),Tarrinas,1274460.53,196070.8,Real (base pública)
+2024,9,2024-09-01,Hostelería (HORECA),Tarrinas,863621.35,132864.8,Real (base pública)
+2024,10,2024-10-01,Hostelería (HORECA),Tarrinas,517732.67,79651.2,Real (base pública)
+2024,11,2024-11-01,Hostelería (HORECA),Tarrinas,346930.94,53374.0,Real (base pública)
+2024,12,2024-12-01,Hostelería (HORECA),Tarrinas,311587.79,47936.6,Real (base pública)
+2024,1,2024-01-01,Hostelería (HORECA),Bombones y Palo,259247.22,39884.2,Real (base pública)
+2024,2,2024-02-01,Hostelería (HORECA),Bombones y Palo,275623.39,42403.6,Real (base pública)
+2024,3,2024-03-01,Hostelería (HORECA),Bombones y Palo,387457.46,59608.8,Real (base pública)
+2024,4,2024-04-01,Hostelería (HORECA),Bombones y Palo,479801.46,73815.6,Real (base pública)
+2024,5,2024-05-01,Hostelería (HORECA),Bombones y Palo,690367.19,106210.3,Real (base pública)
+2024,6,2024-06-01,Hostelería (HORECA),Bombones y Palo,931962.28,143378.8,Real (base pública)
+2024,7,2024-07-01,Hostelería (HORECA),Bombones y Palo,1165621.56,179326.4,Real (base pública)
+2024,8,2024-08-01,Hostelería (HORECA),Bombones y Palo,1092372.98,168057.4,Real (base pública)
+2024,9,2024-09-01,Hostelería (HORECA),Bombones y Palo,745482.12,114689.6,Real (base pública)
+2024,10,2024-10-01,Hostelería (HORECA),Bombones y Palo,510685.77,78567.0,Real (base pública)
+2024,11,2024-11-01,Hostelería (HORECA),Bombones y Palo,312417.09,48064.2,Real (base pública)
+2024,12,2024-12-01,Hostelería (HORECA),Bombones y Palo,267724.66,41188.4,Real (base pública)
+2024,1,2024-01-01,Hostelería (HORECA),Postres y Tartas,199735.9,30728.6,Real (base pública)
+2024,2,2024-02-01,Hostelería (HORECA),Postres y Tartas,205083.16,31551.3,Real (base pública)
+2024,3,2024-03-01,Hostelería (HORECA),Postres y Tartas,263228.31,40496.7,Real (base pública)
+2024,4,2024-04-01,Hostelería (HORECA),Postres y Tartas,357844.31,55053.0,Real (base pública)
+2024,5,2024-05-01,Hostelería (HORECA),Postres y Tartas,493406.73,75908.8,Real (base pública)
+2024,6,2024-06-01,Hostelería (HORECA),Postres y Tartas,719863.31,110748.2,Real (base pública)
+2024,7,2024-07-01,Hostelería (HORECA),Postres y Tartas,880099.84,135400.0,Real (base pública)
+2024,8,2024-08-01,Hostelería (HORECA),Postres y Tartas,930303.49,143123.6,Real (base pública)
+2024,9,2024-09-01,Hostelería (HORECA),Postres y Tartas,574497.82,88384.3,Real (base pública)
+2024,10,2024-10-01,Hostelería (HORECA),Postres y Tartas,352004.2,54154.5,Real (base pública)
+2024,11,2024-11-01,Hostelería (HORECA),Postres y Tartas,239840.46,36898.5,Real (base pública)
+2024,12,2024-12-01,Hostelería (HORECA),Postres y Tartas,186209.2,28647.5,Real (base pública)
+2024,1,2024-01-01,Hostelería (HORECA),Cucuruchos/Sándwich,133447.31,20530.4,Real (base pública)
+2024,2,2024-02-01,Hostelería (HORECA),Cucuruchos/Sándwich,152196.8,23414.9,Real (base pública)
+2024,3,2024-03-01,Hostelería (HORECA),Cucuruchos/Sándwich,189999.78,29230.7,Real (base pública)
+2024,4,2024-04-01,Hostelería (HORECA),Cucuruchos/Sándwich,278872.4,42903.4,Real (base pública)
+2024,5,2024-05-01,Hostelería (HORECA),Cucuruchos/Sándwich,387474.49,59611.5,Real (base pública)
+2024,6,2024-06-01,Hostelería (HORECA),Cucuruchos/Sándwich,502268.76,77272.2,Real (base pública)
+2024,7,2024-07-01,Hostelería (HORECA),Cucuruchos/Sándwich,634977.02,97688.8,Real (base pública)
+2024,8,2024-08-01,Hostelería (HORECA),Cucuruchos/Sándwich,669065.31,102933.2,Real (base pública)
+2024,9,2024-09-01,Hostelería (HORECA),Cucuruchos/Sándwich,399278.58,61427.4,Real (base pública)
+2024,10,2024-10-01,Hostelería (HORECA),Cucuruchos/Sándwich,252224.18,38803.7,Real (base pública)
+2024,11,2024-11-01,Hostelería (HORECA),Cucuruchos/Sándwich,157500.66,24230.8,Real (base pública)
+2024,12,2024-12-01,Hostelería (HORECA),Cucuruchos/Sándwich,140321.19,21587.8,Real (base pública)
+2024,1,2024-01-01,Hostelería (HORECA),Yogur helado,98120.93,15095.5,Real (base pública)
+2024,2,2024-02-01,Hostelería (HORECA),Yogur helado,100196.76,15414.8,Real (base pública)
+2024,3,2024-03-01,Hostelería (HORECA),Yogur helado,147072.74,22626.5,Real (base pública)
+2024,4,2024-04-01,Hostelería (HORECA),Yogur helado,183919.31,28295.2,Real (base pública)
+2024,5,2024-05-01,Hostelería (HORECA),Yogur helado,278679.2,42873.7,Real (base pública)
+2024,6,2024-06-01,Hostelería (HORECA),Yogur helado,372483.07,57305.1,Real (base pública)
+2024,7,2024-07-01,Hostelería (HORECA),Yogur helado,462452.51,71146.5,Real (base pública)
+2024,8,2024-08-01,Hostelería (HORECA),Yogur helado,418232.93,64343.5,Real (base pública)
+2024,9,2024-09-01,Hostelería (HORECA),Yogur helado,278815.23,42894.6,Real (base pública)
+2024,10,2024-10-01,Hostelería (HORECA),Yogur helado,169242.94,26037.3,Real (base pública)
+2024,11,2024-11-01,Hostelería (HORECA),Yogur helado,112587.22,17321.1,Real (base pública)
+2024,12,2024-12-01,Hostelería (HORECA),Yogur helado,106652.13,16408.0,Real (base pública)
+2024,1,2024-01-01,Exportación,Tarrinas,336103.05,88448.2,Real (base pública)
+2024,2,2024-02-01,Exportación,Tarrinas,343237.46,90325.6,Real (base pública)
+2024,3,2024-03-01,Exportación,Tarrinas,525663.57,138332.5,Real (base pública)
+2024,4,2024-04-01,Exportación,Tarrinas,691593.1,181998.2,Real (base pública)
+2024,5,2024-05-01,Exportación,Tarrinas,954893.72,251287.8,Real (base pública)
+2024,6,2024-06-01,Exportación,Tarrinas,1377581.67,362521.5,Real (base pública)
+2024,7,2024-07-01,Exportación,Tarrinas,1452809.22,382318.2,Real (base pública)
+2024,8,2024-08-01,Exportación,Tarrinas,1383485.21,364075.1,Real (base pública)
+2024,9,2024-09-01,Exportación,Tarrinas,885132.41,232929.6,Real (base pública)
+2024,10,2024-10-01,Exportación,Tarrinas,657465.65,173017.2,Real (base pública)
+2024,11,2024-11-01,Exportación,Tarrinas,408761.66,107568.9,Real (base pública)
+2024,12,2024-12-01,Exportación,Tarrinas,358828.49,94428.5,Real (base pública)
+2024,1,2024-01-01,Exportación,Bombones y Palo,284595.14,74893.4,Real (base pública)
+2024,2,2024-02-01,Exportación,Bombones y Palo,294302.13,77448.0,Real (base pública)
+2024,3,2024-03-01,Exportación,Bombones y Palo,489981.73,128942.6,Real (base pública)
+2024,4,2024-04-01,Exportación,Bombones y Palo,564959.31,148673.5,Real (base pública)
+2024,5,2024-05-01,Exportación,Bombones y Palo,815248.56,214539.1,Real (base pública)
+2024,6,2024-06-01,Exportación,Bombones y Palo,1131087.86,297654.7,Real (base pública)
+2024,7,2024-07-01,Exportación,Bombones y Palo,1341276.57,352967.6,Real (base pública)
+2024,8,2024-08-01,Exportación,Bombones y Palo,1292903.51,340237.7,Real (base pública)
+2024,9,2024-09-01,Exportación,Bombones y Palo,808719.84,212821.0,Real (base pública)
+2024,10,2024-10-01,Exportación,Bombones y Palo,542644.75,142801.3,Real (base pública)
+2024,11,2024-11-01,Exportación,Bombones y Palo,375316.69,98767.6,Real (base pública)
+2024,12,2024-12-01,Exportación,Bombones y Palo,332829.95,87586.8,Real (base pública)
+2024,1,2024-01-01,Exportación,Postres y Tartas,233095.34,61340.9,Real (base pública)
+2024,2,2024-02-01,Exportación,Postres y Tartas,233754.02,61514.2,Real (base pública)
+2024,3,2024-03-01,Exportación,Postres y Tartas,319222.52,84006.0,Real (base pública)
+2024,4,2024-04-01,Exportación,Postres y Tartas,429078.54,112915.4,Real (base pública)
+2024,5,2024-05-01,Exportación,Postres y Tartas,625440.58,164589.6,Real (base pública)
+2024,6,2024-06-01,Exportación,Postres y Tartas,885534.06,233035.3,Real (base pública)
+2024,7,2024-07-01,Exportación,Postres y Tartas,922260.29,242700.0,Real (base pública)
+2024,8,2024-08-01,Exportación,Postres y Tartas,1058749.34,278618.3,Real (base pública)
+2024,9,2024-09-01,Exportación,Postres y Tartas,642574.34,169098.5,Real (base pública)
+2024,10,2024-10-01,Exportación,Postres y Tartas,399101.44,105026.7,Real (base pública)
+2024,11,2024-11-01,Exportación,Postres y Tartas,250520.84,65926.6,Real (base pública)
+2024,12,2024-12-01,Exportación,Postres y Tartas,220036.86,57904.4,Real (base pública)
+2024,1,2024-01-01,Exportación,Cucuruchos/Sándwich,157348.19,41407.4,Real (base pública)
+2024,2,2024-02-01,Exportación,Cucuruchos/Sándwich,168535.56,44351.5,Real (base pública)
+2024,3,2024-03-01,Exportación,Cucuruchos/Sándwich,219925.25,57875.0,Real (base pública)
+2024,4,2024-04-01,Exportación,Cucuruchos/Sándwich,282683.71,74390.4,Real (base pública)
+2024,5,2024-05-01,Exportación,Cucuruchos/Sándwich,429261.9,112963.7,Real (base pública)
+2024,6,2024-06-01,Exportación,Cucuruchos/Sándwich,636765.79,167569.9,Real (base pública)
+2024,7,2024-07-01,Exportación,Cucuruchos/Sándwich,696109.9,183186.8,Real (base pública)
+2024,8,2024-08-01,Exportación,Cucuruchos/Sándwich,636728.34,167560.1,Real (base pública)
+2024,9,2024-09-01,Exportación,Cucuruchos/Sándwich,447813.15,117845.5,Real (base pública)
+2024,10,2024-10-01,Exportación,Cucuruchos/Sándwich,281571.33,74097.7,Real (base pública)
+2024,11,2024-11-01,Exportación,Cucuruchos/Sándwich,159804.61,42053.9,Real (base pública)
+2024,12,2024-12-01,Exportación,Cucuruchos/Sándwich,167464.12,44069.5,Real (base pública)
+2024,1,2024-01-01,Exportación,Yogur helado,106702.11,28079.5,Real (base pública)
+2024,2,2024-02-01,Exportación,Yogur helado,124118.09,32662.7,Real (base pública)
+2024,3,2024-03-01,Exportación,Yogur helado,183443.82,48274.7,Real (base pública)
+2024,4,2024-04-01,Exportación,Yogur helado,228058.22,60015.4,Real (base pública)
+2024,5,2024-05-01,Exportación,Yogur helado,307658.73,80962.8,Real (base pública)
+2024,6,2024-06-01,Exportación,Yogur helado,396573.98,104361.5,Real (base pública)
+2024,7,2024-07-01,Exportación,Yogur helado,568577.72,149625.7,Real (base pública)
+2024,8,2024-08-01,Exportación,Yogur helado,493221.73,129795.2,Real (base pública)
+2024,9,2024-09-01,Exportación,Yogur helado,324071.22,85281.9,Real (base pública)
+2024,10,2024-10-01,Exportación,Yogur helado,203656.87,53593.9,Real (base pública)
+2024,11,2024-11-01,Exportación,Yogur helado,133243.86,35064.2,Real (base pública)
+2024,12,2024-12-01,Exportación,Yogur helado,119077.1,31336.1,Real (base pública)
+2024,1,2024-01-01,Heladerías propias,Tarrinas,91507.42,10167.5,Real (base pública)
+2024,2,2024-02-01,Heladerías propias,Tarrinas,101815.21,11312.8,Real (base pública)
+2024,3,2024-03-01,Heladerías propias,Tarrinas,146308.35,16256.5,Real (base pública)
+2024,4,2024-04-01,Heladerías propias,Tarrinas,183299.72,20366.6,Real (base pública)
+2024,5,2024-05-01,Heladerías propias,Tarrinas,262460.76,29162.3,Real (base pública)
+2024,6,2024-06-01,Heladerías propias,Tarrinas,368320.51,40924.5,Real (base pública)
+2024,7,2024-07-01,Heladerías propias,Tarrinas,434040.07,48226.7,Real (base pública)
+2024,8,2024-08-01,Heladerías propias,Tarrinas,461451.29,51272.4,Real (base pública)
+2024,9,2024-09-01,Heladerías propias,Tarrinas,245166.91,27240.8,Real (base pública)
+2024,10,2024-10-01,Heladerías propias,Tarrinas,187663.33,20851.5,Real (base pública)
+2024,11,2024-11-01,Heladerías propias,Tarrinas,122319.16,13591.0,Real (base pública)
+2024,12,2024-12-01,Heladerías propias,Tarrinas,93825.54,10425.0,Real (base pública)
+2024,1,2024-01-01,Heladerías propias,Bombones y Palo,80249.37,8916.6,Real (base pública)
+2024,2,2024-02-01,Heladerías propias,Bombones y Palo,89035.54,9892.8,Real (base pública)
+2024,3,2024-03-01,Heladerías propias,Bombones y Palo,118070.26,13118.9,Real (base pública)
+2024,4,2024-04-01,Heladerías propias,Bombones y Palo,156945.99,17438.4,Real (base pública)
+2024,5,2024-05-01,Heladerías propias,Bombones y Palo,222775.3,24752.9,Real (base pública)
+2024,6,2024-06-01,Heladerías propias,Bombones y Palo,345340.59,38371.2,Real (base pública)
+2024,7,2024-07-01,Heladerías propias,Bombones y Palo,398851.58,44316.8,Real (base pública)
+2024,8,2024-08-01,Heladerías propias,Bombones y Palo,395601.64,43955.8,Real (base pública)
+2024,9,2024-09-01,Heladerías propias,Bombones y Palo,253783.6,28198.1,Real (base pública)
+2024,10,2024-10-01,Heladerías propias,Bombones y Palo,145518.3,16168.7,Real (base pública)
+2024,11,2024-11-01,Heladerías propias,Bombones y Palo,97175.29,10797.3,Real (base pública)
+2024,12,2024-12-01,Heladerías propias,Bombones y Palo,92940.22,10326.7,Real (base pública)
+2024,1,2024-01-01,Heladerías propias,Postres y Tartas,58968.56,6552.1,Real (base pública)
+2024,2,2024-02-01,Heladerías propias,Postres y Tartas,72272.75,8030.3,Real (base pública)
+2024,3,2024-03-01,Heladerías propias,Postres y Tartas,96524.92,10725.0,Real (base pública)
+2024,4,2024-04-01,Heladerías propias,Postres y Tartas,123258.76,13695.4,Real (base pública)
+2024,5,2024-05-01,Heladerías propias,Postres y Tartas,187890.67,20876.7,Real (base pública)
+2024,6,2024-06-01,Heladerías propias,Postres y Tartas,249672.75,27741.4,Real (base pública)
+2024,7,2024-07-01,Heladerías propias,Postres y Tartas,287806.8,31978.6,Real (base pública)
+2024,8,2024-08-01,Heladerías propias,Postres y Tartas,302703.47,33633.7,Real (base pública)
+2024,9,2024-09-01,Heladerías propias,Postres y Tartas,178234.64,19803.8,Real (base pública)
+2024,10,2024-10-01,Heladerías propias,Postres y Tartas,122287.93,13587.6,Real (base pública)
+2024,11,2024-11-01,Heladerías propias,Postres y Tartas,79039.85,8782.2,Real (base pública)
+2024,12,2024-12-01,Heladerías propias,Postres y Tartas,68704.84,7633.9,Real (base pública)
+2024,1,2024-01-01,Heladerías propias,Cucuruchos/Sándwich,44681.42,4964.6,Real (base pública)
+2024,2,2024-02-01,Heladerías propias,Cucuruchos/Sándwich,45793.64,5088.2,Real (base pública)
+2024,3,2024-03-01,Heladerías propias,Cucuruchos/Sándwich,71548.91,7949.9,Real (base pública)
+2024,4,2024-04-01,Heladerías propias,Cucuruchos/Sándwich,87116.1,9679.5,Real (base pública)
+2024,5,2024-05-01,Heladerías propias,Cucuruchos/Sándwich,123689.05,13743.2,Real (base pública)
+2024,6,2024-06-01,Heladerías propias,Cucuruchos/Sándwich,179940.68,19993.4,Real (base pública)
+2024,7,2024-07-01,Heladerías propias,Cucuruchos/Sándwich,197942.26,21993.6,Real (base pública)
+2024,8,2024-08-01,Heladerías propias,Cucuruchos/Sándwich,186178.22,20686.4,Real (base pública)
+2024,9,2024-09-01,Heladerías propias,Cucuruchos/Sándwich,121628.05,13514.2,Real (base pública)
+2024,10,2024-10-01,Heladerías propias,Cucuruchos/Sándwich,85560.34,9506.7,Real (base pública)
+2024,11,2024-11-01,Heladerías propias,Cucuruchos/Sándwich,50294.24,5588.3,Real (base pública)
+2024,12,2024-12-01,Heladerías propias,Cucuruchos/Sándwich,53135.48,5904.0,Real (base pública)
+2024,1,2024-01-01,Heladerías propias,Yogur helado,28134.26,3126.0,Real (base pública)
+2024,2,2024-02-01,Heladerías propias,Yogur helado,37852.14,4205.8,Real (base pública)
+2024,3,2024-03-01,Heladerías propias,Yogur helado,49364.85,5485.0,Real (base pública)
+2024,4,2024-04-01,Heladerías propias,Yogur helado,62502.73,6944.8,Real (base pública)
+2024,5,2024-05-01,Heladerías propias,Yogur helado,88248.65,9805.4,Real (base pública)
+2024,6,2024-06-01,Heladerías propias,Yogur helado,124560.82,13840.1,Real (base pública)
+2024,7,2024-07-01,Heladerías propias,Yogur helado,146272.58,16252.5,Real (base pública)
+2024,8,2024-08-01,Heladerías propias,Yogur helado,150950.97,16772.3,Real (base pública)
+2024,9,2024-09-01,Heladerías propias,Yogur helado,94747.71,10527.6,Real (base pública)
+2024,10,2024-10-01,Heladerías propias,Yogur helado,59762.96,6640.3,Real (base pública)
+2024,11,2024-11-01,Heladerías propias,Yogur helado,37683.9,4187.1,Real (base pública)
+2024,12,2024-12-01,Heladerías propias,Yogur helado,34793.11,3865.9,Real (base pública)
+2025,1,2025-01-01,Supermercados,Tarrinas,587402.33,139857.7,Proyección
+2025,2,2025-02-01,Supermercados,Tarrinas,587814.02,139955.7,Proyección
+2025,3,2025-03-01,Supermercados,Tarrinas,839226.83,199815.9,Proyección
+2025,4,2025-04-01,Supermercados,Tarrinas,1199996.11,285713.3,Proyección
+2025,5,2025-05-01,Supermercados,Tarrinas,1685497.52,401308.9,Proyección
+2025,6,2025-06-01,Supermercados,Tarrinas,2229023.47,530719.8,Proyección
+2025,7,2025-07-01,Supermercados,Tarrinas,2702151.07,643369.3,Proyección
+2025,8,2025-08-01,Supermercados,Tarrinas,2681185.7,638377.5,Proyección
+2025,9,2025-09-01,Supermercados,Tarrinas,1688659.94,402061.9,Proyección
+2025,10,2025-10-01,Supermercados,Tarrinas,1050197.17,250046.9,Proyección
+2025,11,2025-11-01,Supermercados,Tarrinas,713978.21,169994.8,Proyección
+2025,12,2025-12-01,Supermercados,Tarrinas,611333.09,145555.5,Proyección
+2025,1,2025-01-01,Supermercados,Bombones y Palo,511600.15,121809.5,Proyección
+2025,2,2025-02-01,Supermercados,Bombones y Palo,509650.08,121345.3,Proyección
+2025,3,2025-03-01,Supermercados,Bombones y Palo,820034.65,195246.3,Proyección
+2025,4,2025-04-01,Supermercados,Bombones y Palo,1026426.33,244387.3,Proyección
+2025,5,2025-05-01,Supermercados,Bombones y Palo,1466932.07,349269.6,Proyección
+2025,6,2025-06-01,Supermercados,Bombones y Palo,2045556.88,487037.3,Proyección
+2025,7,2025-07-01,Supermercados,Bombones y Palo,2534543.94,603462.8,Proyección
+2025,8,2025-08-01,Supermercados,Bombones y Palo,2399841.52,571390.8,Proyección
+2025,9,2025-09-01,Supermercados,Bombones y Palo,1365655.1,325156.0,Proyección
+2025,10,2025-10-01,Supermercados,Bombones y Palo,886435.03,211055.9,Proyección
+2025,11,2025-11-01,Supermercados,Bombones y Palo,593636.77,141342.1,Proyección
+2025,12,2025-12-01,Supermercados,Bombones y Palo,557800.01,132809.6,Proyección
+2025,1,2025-01-01,Supermercados,Postres y Tartas,395648.29,94202.0,Proyección
+2025,2,2025-02-01,Supermercados,Postres y Tartas,412968.2,98325.8,Proyección
+2025,3,2025-03-01,Supermercados,Postres y Tartas,605527.37,144173.2,Proyección
+2025,4,2025-04-01,Supermercados,Postres y Tartas,742199.67,176714.2,Proyección
+2025,5,2025-05-01,Supermercados,Postres y Tartas,1080080.53,257162.1,Proyección
+2025,6,2025-06-01,Supermercados,Postres y Tartas,1394326.26,331982.4,Proyección
+2025,7,2025-07-01,Supermercados,Postres y Tartas,1716694.59,408736.8,Proyección
+2025,8,2025-08-01,Supermercados,Postres y Tartas,1638183.1,390043.6,Proyección
+2025,9,2025-09-01,Supermercados,Postres y Tartas,1100544.16,262034.3,Proyección
+2025,10,2025-10-01,Supermercados,Postres y Tartas,766858.31,182585.3,Proyección
+2025,11,2025-11-01,Supermercados,Postres y Tartas,448993.8,106903.3,Proyección
+2025,12,2025-12-01,Supermercados,Postres y Tartas,484919.05,115457.0,Proyección
+2025,1,2025-01-01,Supermercados,Cucuruchos/Sándwich,276625.24,65863.2,Proyección
+2025,2,2025-02-01,Supermercados,Cucuruchos/Sándwich,302734.73,72079.7,Proyección
+2025,3,2025-03-01,Supermercados,Cucuruchos/Sándwich,401924.28,95696.2,Proyección
+2025,4,2025-04-01,Supermercados,Cucuruchos/Sándwich,558838.57,133056.8,Proyección
+2025,5,2025-05-01,Supermercados,Cucuruchos/Sándwich,757455.52,180346.5,Proyección
+2025,6,2025-06-01,Supermercados,Cucuruchos/Sándwich,1056273.58,251493.7,Proyección
+2025,7,2025-07-01,Supermercados,Cucuruchos/Sándwich,1421107.83,338359.0,Proyección
+2025,8,2025-08-01,Supermercados,Cucuruchos/Sándwich,1223939.44,291414.1,Proyección
+2025,9,2025-09-01,Supermercados,Cucuruchos/Sándwich,856438.6,203913.9,Proyección
+2025,10,2025-10-01,Supermercados,Cucuruchos/Sándwich,492007.55,117144.6,Proyección
+2025,11,2025-11-01,Supermercados,Cucuruchos/Sándwich,329381.55,78424.2,Proyección
+2025,12,2025-12-01,Supermercados,Cucuruchos/Sándwich,326521.23,77743.2,Proyección
+2025,1,2025-01-01,Supermercados,Yogur helado,186788.06,44473.3,Proyección
+2025,2,2025-02-01,Supermercados,Yogur helado,233675.62,55637.0,Proyección
+2025,3,2025-03-01,Supermercados,Yogur helado,310577.49,73947.0,Proyección
+2025,4,2025-04-01,Supermercados,Yogur helado,374819.9,89242.8,Proyección
+2025,5,2025-05-01,Supermercados,Yogur helado,574688.15,136830.5,Proyección
+2025,6,2025-06-01,Supermercados,Yogur helado,786372.57,187231.6,Proyección
+2025,7,2025-07-01,Supermercados,Yogur helado,927865.55,220920.4,Proyección
+2025,8,2025-08-01,Supermercados,Yogur helado,809492.6,192736.3,Proyección
+2025,9,2025-09-01,Supermercados,Yogur helado,557466.76,132730.2,Proyección
+2025,10,2025-10-01,Supermercados,Yogur helado,359732.41,85650.6,Proyección
+2025,11,2025-11-01,Supermercados,Yogur helado,234807.71,55906.6,Proyección
+2025,12,2025-12-01,Supermercados,Yogur helado,220908.18,52597.2,Proyección
+2025,1,2025-01-01,Hostelería (HORECA),Tarrinas,304507.39,46847.3,Proyección
+2025,2,2025-02-01,Hostelería (HORECA),Tarrinas,312970.66,48149.3,Proyección
+2025,3,2025-03-01,Hostelería (HORECA),Tarrinas,478431.85,73604.9,Proyección
+2025,4,2025-04-01,Hostelería (HORECA),Tarrinas,622080.36,95704.6,Proyección
+2025,5,2025-05-01,Hostelería (HORECA),Tarrinas,896345.99,137899.4,Proyección
+2025,6,2025-06-01,Hostelería (HORECA),Tarrinas,1237195.65,190337.8,Proyección
+2025,7,2025-07-01,Hostelería (HORECA),Tarrinas,1467249.51,225730.7,Proyección
+2025,8,2025-08-01,Hostelería (HORECA),Tarrinas,1406551.8,216392.6,Proyección
+2025,9,2025-09-01,Hostelería (HORECA),Tarrinas,902300.29,138815.4,Proyección
+2025,10,2025-10-01,Hostelería (HORECA),Tarrinas,522768.18,80425.9,Proyección
+2025,11,2025-11-01,Hostelería (HORECA),Tarrinas,376822.29,57972.7,Proyección
+2025,12,2025-12-01,Hostelería (HORECA),Tarrinas,338844.37,52129.9,Proyección
+2025,1,2025-01-01,Hostelería (HORECA),Bombones y Palo,265134.25,40789.9,Proyección
+2025,2,2025-02-01,Hostelería (HORECA),Bombones y Palo,272092.77,41860.4,Proyección
+2025,3,2025-03-01,Hostelería (HORECA),Bombones y Palo,384911.3,59217.1,Proyección
+2025,4,2025-04-01,Hostelería (HORECA),Bombones y Palo,550713.08,84725.1,Proyección
+2025,5,2025-05-01,Hostelería (HORECA),Bombones y Palo,754187.46,116028.9,Proyección
+2025,6,2025-06-01,Hostelería (HORECA),Bombones y Palo,1051927.56,161835.0,Proyección
+2025,7,2025-07-01,Hostelería (HORECA),Bombones y Palo,1222445.53,188068.5,Proyección
+2025,8,2025-08-01,Hostelería (HORECA),Bombones y Palo,1193425.35,183603.9,Proyección
+2025,9,2025-09-01,Hostelería (HORECA),Bombones y Palo,821562.46,126394.3,Proyección
+2025,10,2025-10-01,Hostelería (HORECA),Bombones y Palo,481350.9,74054.0,Proyección
+2025,11,2025-11-01,Hostelería (HORECA),Bombones y Palo,321248.16,49422.8,Proyección
+2025,12,2025-12-01,Hostelería (HORECA),Bombones y Palo,283928.98,43681.4,Proyección
+2025,1,2025-01-01,Hostelería (HORECA),Postres y Tartas,196845.7,30283.9,Proyección
+2025,2,2025-02-01,Hostelería (HORECA),Postres y Tartas,220118.4,33864.3,Proyección
+2025,3,2025-03-01,Hostelería (HORECA),Postres y Tartas,316480.82,48689.3,Proyección
+2025,4,2025-04-01,Hostelería (HORECA),Postres y Tartas,392800.96,60430.9,Proyección
+2025,5,2025-05-01,Hostelería (HORECA),Postres y Tartas,617792.02,95044.9,Proyección
+2025,6,2025-06-01,Hostelería (HORECA),Postres y Tartas,747508.96,115001.4,Proyección
+2025,7,2025-07-01,Hostelería (HORECA),Postres y Tartas,930239.4,143113.8,Proyección
+2025,8,2025-08-01,Hostelería (HORECA),Postres y Tartas,896501.59,137923.4,Proyección
+2025,9,2025-09-01,Hostelería (HORECA),Postres y Tartas,647324.81,99588.4,Proyección
+2025,10,2025-10-01,Hostelería (HORECA),Postres y Tartas,383812.05,59048.1,Proyección
+2025,11,2025-11-01,Hostelería (HORECA),Postres y Tartas,258620.19,39787.7,Proyección
+2025,12,2025-12-01,Hostelería (HORECA),Postres y Tartas,206967.89,31841.2,Proyección
+2025,1,2025-01-01,Hostelería (HORECA),Cucuruchos/Sándwich,142732.7,21958.8,Proyección
+2025,2,2025-02-01,Hostelería (HORECA),Cucuruchos/Sándwich,163463.65,25148.3,Proyección
+2025,3,2025-03-01,Hostelería (HORECA),Cucuruchos/Sándwich,220004.5,33846.8,Proyección
+2025,4,2025-04-01,Hostelería (HORECA),Cucuruchos/Sándwich,296711.44,45647.9,Proyección
+2025,5,2025-05-01,Hostelería (HORECA),Cucuruchos/Sándwich,396381.32,60981.7,Proyección
+2025,6,2025-06-01,Hostelería (HORECA),Cucuruchos/Sándwich,586356.71,90208.7,Proyección
+2025,7,2025-07-01,Hostelería (HORECA),Cucuruchos/Sándwich,732863.55,112748.2,Proyección
+2025,8,2025-08-01,Hostelería (HORECA),Cucuruchos/Sándwich,630018.06,96925.9,Proyección
+2025,9,2025-09-01,Hostelería (HORECA),Cucuruchos/Sándwich,413143.43,63560.5,Proyección
+2025,10,2025-10-01,Hostelería (HORECA),Cucuruchos/Sándwich,285387.65,43905.8,Proyección
+2025,11,2025-11-01,Hostelería (HORECA),Cucuruchos/Sándwich,185748.76,28576.8,Proyección
+2025,12,2025-12-01,Hostelería (HORECA),Cucuruchos/Sándwich,152410.76,23447.8,Proyección
+2025,1,2025-01-01,Hostelería (HORECA),Yogur helado,98494.83,15153.0,Proyección
+2025,2,2025-02-01,Hostelería (HORECA),Yogur helado,110212.28,16955.8,Proyección
+2025,3,2025-03-01,Hostelería (HORECA),Yogur helado,145981.72,22458.7,Proyección
+2025,4,2025-04-01,Hostelería (HORECA),Yogur helado,191974.68,29534.6,Proyección
+2025,5,2025-05-01,Hostelería (HORECA),Yogur helado,276054.41,42469.9,Proyección
+2025,6,2025-06-01,Hostelería (HORECA),Yogur helado,376235.23,57882.3,Proyección
+2025,7,2025-07-01,Hostelería (HORECA),Yogur helado,468692.34,72106.6,Proyección
+2025,8,2025-08-01,Hostelería (HORECA),Yogur helado,463695.21,71337.7,Proyección
+2025,9,2025-09-01,Hostelería (HORECA),Yogur helado,325224.69,50034.6,Proyección
+2025,10,2025-10-01,Hostelería (HORECA),Yogur helado,180552.09,27777.2,Proyección
+2025,11,2025-11-01,Hostelería (HORECA),Yogur helado,129017.92,19848.9,Proyección
+2025,12,2025-12-01,Hostelería (HORECA),Yogur helado,110591.22,17014.1,Proyección
+2025,1,2025-01-01,Exportación,Tarrinas,400184.42,105311.7,Proyección
+2025,2,2025-02-01,Exportación,Tarrinas,460791.87,121261.0,Proyección
+2025,3,2025-03-01,Exportación,Tarrinas,589020.62,155005.5,Proyección
+2025,4,2025-04-01,Exportación,Tarrinas,817694.59,215182.7,Proyección
+2025,5,2025-05-01,Exportación,Tarrinas,1168600.15,307526.3,Proyección
+2025,6,2025-06-01,Exportación,Tarrinas,1598545.66,420669.9,Proyección
+2025,7,2025-07-01,Exportación,Tarrinas,1899225.93,499796.3,Proyección
+2025,8,2025-08-01,Exportación,Tarrinas,2051945.44,539985.7,Proyección
+2025,9,2025-09-01,Exportación,Tarrinas,1165152.85,306619.1,Proyección
+2025,10,2025-10-01,Exportación,Tarrinas,737659.13,194120.8,Proyección
+2025,11,2025-11-01,Exportación,Tarrinas,475049.82,125013.2,Proyección
+2025,12,2025-12-01,Exportación,Tarrinas,433371.53,114045.1,Proyección
+2025,1,2025-01-01,Exportación,Bombones y Palo,336605.84,88580.5,Proyección
+2025,2,2025-02-01,Exportación,Bombones y Palo,409285.14,107706.6,Proyección
+2025,3,2025-03-01,Exportación,Bombones y Palo,579259.15,152436.6,Proyección
+2025,4,2025-04-01,Exportación,Bombones y Palo,675528.7,177770.7,Proyección
+2025,5,2025-05-01,Exportación,Bombones y Palo,962625.31,253322.5,Proyección
+2025,6,2025-06-01,Exportación,Bombones y Palo,1383984.1,364206.4,Proyección
+2025,7,2025-07-01,Exportación,Bombones y Palo,1577736.37,415193.7,Proyección
+2025,8,2025-08-01,Exportación,Bombones y Palo,1634029.83,430007.9,Proyección
+2025,9,2025-09-01,Exportación,Bombones y Palo,1053642.2,277274.3,Proyección
+2025,10,2025-10-01,Exportación,Bombones y Palo,606968.39,159728.6,Proyección
+2025,11,2025-11-01,Exportación,Bombones y Palo,457830.65,120481.7,Proyección
+2025,12,2025-12-01,Exportación,Bombones y Palo,421007.22,110791.3,Proyección
+2025,1,2025-01-01,Exportación,Postres y Tartas,259256.52,68225.4,Proyección
+2025,2,2025-02-01,Exportación,Postres y Tartas,291407.23,76686.1,Proyección
+2025,3,2025-03-01,Exportación,Postres y Tartas,421981.49,111047.7,Proyección
+2025,4,2025-04-01,Exportación,Postres y Tartas,543847.22,143117.7,Proyección
+2025,5,2025-05-01,Exportación,Postres y Tartas,798077.18,210020.3,Proyección
+2025,6,2025-06-01,Exportación,Postres y Tartas,1144626.91,301217.6,Proyección
+2025,7,2025-07-01,Exportación,Postres y Tartas,1237062.54,325542.8,Proyección
+2025,8,2025-08-01,Exportación,Postres y Tartas,1169756.39,307830.6,Proyección
+2025,9,2025-09-01,Exportación,Postres y Tartas,747018.14,196583.7,Proyección
+2025,10,2025-10-01,Exportación,Postres y Tartas,486722.6,128084.9,Proyección
+2025,11,2025-11-01,Exportación,Postres y Tartas,326343.21,85879.8,Proyección
+2025,12,2025-12-01,Exportación,Postres y Tartas,323832.1,85219.0,Proyección
+2025,1,2025-01-01,Exportación,Cucuruchos/Sándwich,182370.5,47992.3,Proyección
+2025,2,2025-02-01,Exportación,Cucuruchos/Sándwich,210345.09,55354.0,Proyección
+2025,3,2025-03-01,Exportación,Cucuruchos/Sándwich,290985.36,76575.1,Proyección
+2025,4,2025-04-01,Exportación,Cucuruchos/Sándwich,396680.09,104389.5,Proyección
+2025,5,2025-05-01,Exportación,Cucuruchos/Sándwich,609179.49,160310.4,Proyección
+2025,6,2025-06-01,Exportación,Cucuruchos/Sándwich,708735.99,186509.5,Proyección
+2025,7,2025-07-01,Exportación,Cucuruchos/Sándwich,852292.97,224287.6,Proyección
+2025,8,2025-08-01,Exportación,Cucuruchos/Sándwich,897398.5,236157.5,Proyección
+2025,9,2025-09-01,Exportación,Cucuruchos/Sándwich,580796.37,152841.2,Proyección
+2025,10,2025-10-01,Exportación,Cucuruchos/Sándwich,386282.27,101653.2,Proyección
+2025,11,2025-11-01,Exportación,Cucuruchos/Sándwich,235499.94,61973.7,Proyección
+2025,12,2025-12-01,Exportación,Cucuruchos/Sándwich,204280.54,53758.0,Proyección
+2025,1,2025-01-01,Exportación,Yogur helado,137674.81,36230.2,Proyección
+2025,2,2025-02-01,Exportación,Yogur helado,156820.7,41268.6,Proyección
+2025,3,2025-03-01,Exportación,Yogur helado,216551.23,56987.1,Proyección
+2025,4,2025-04-01,Exportación,Yogur helado,274234.61,72167.0,Proyección
+2025,5,2025-05-01,Exportación,Yogur helado,406922.0,107084.8,Proyección
+2025,6,2025-06-01,Exportación,Yogur helado,550447.98,144854.8,Proyección
+2025,7,2025-07-01,Exportación,Yogur helado,667179.48,175573.5,Proyección
+2025,8,2025-08-01,Exportación,Yogur helado,628953.61,165514.1,Proyección
+2025,9,2025-09-01,Exportación,Yogur helado,397824.41,104690.6,Proyección
+2025,10,2025-10-01,Exportación,Yogur helado,254445.61,66959.4,Proyección
+2025,11,2025-11-01,Exportación,Yogur helado,173302.05,45605.8,Proyección
+2025,12,2025-12-01,Exportación,Yogur helado,142514.75,37503.8,Proyección
+2025,1,2025-01-01,Heladerías propias,Tarrinas,102463.14,11384.8,Proyección
+2025,2,2025-02-01,Heladerías propias,Tarrinas,109588.77,12176.5,Proyección
+2025,3,2025-03-01,Heladerías propias,Tarrinas,156727.13,17414.1,Proyección
+2025,4,2025-04-01,Heladerías propias,Tarrinas,214079.42,23786.6,Proyección
+2025,5,2025-05-01,Heladerías propias,Tarrinas,293424.04,32602.7,Proyección
+2025,6,2025-06-01,Heladerías propias,Tarrinas,392163.91,43573.7,Proyección
+2025,7,2025-07-01,Heladerías propias,Tarrinas,437583.51,48620.4,Proyección
+2025,8,2025-08-01,Heladerías propias,Tarrinas,475429.29,52825.4,Proyección
+2025,9,2025-09-01,Heladerías propias,Tarrinas,311566.84,34618.5,Proyección
+2025,10,2025-10-01,Heladerías propias,Tarrinas,210593.45,23399.2,Proyección
+2025,11,2025-11-01,Heladerías propias,Tarrinas,121073.7,13452.6,Proyección
+2025,12,2025-12-01,Heladerías propias,Tarrinas,113012.19,12556.9,Proyección
+2025,1,2025-01-01,Heladerías propias,Bombones y Palo,88281.32,9809.1,Proyección
+2025,2,2025-02-01,Heladerías propias,Bombones y Palo,104523.68,11613.8,Proyección
+2025,3,2025-03-01,Heladerías propias,Bombones y Palo,134988.96,14998.8,Proyección
+2025,4,2025-04-01,Heladerías propias,Bombones y Palo,176821.06,19646.8,Proyección
+2025,5,2025-05-01,Heladerías propias,Bombones y Palo,259550.28,28838.9,Proyección
+2025,6,2025-06-01,Heladerías propias,Bombones y Palo,342251.93,38028.0,Proyección
+2025,7,2025-07-01,Heladerías propias,Bombones y Palo,397822.88,44202.6,Proyección
+2025,8,2025-08-01,Heladerías propias,Bombones y Palo,401072.26,44563.6,Proyección
+2025,9,2025-09-01,Heladerías propias,Bombones y Palo,275624.39,30624.9,Proyección
+2025,10,2025-10-01,Heladerías propias,Bombones y Palo,156246.57,17360.7,Proyección
+2025,11,2025-11-01,Heladerías propias,Bombones y Palo,107279.07,11919.9,Proyección
+2025,12,2025-12-01,Heladerías propias,Bombones y Palo,93490.84,10387.9,Proyección
+2025,1,2025-01-01,Heladerías propias,Postres y Tartas,71080.1,7897.8,Proyección
+2025,2,2025-02-01,Heladerías propias,Postres y Tartas,68849.09,7649.9,Proyección
+2025,3,2025-03-01,Heladerías propias,Postres y Tartas,101419.04,11268.8,Proyección
+2025,4,2025-04-01,Heladerías propias,Postres y Tartas,136674.78,15186.1,Proyección
+2025,5,2025-05-01,Heladerías propias,Postres y Tartas,208931.78,23214.6,Proyección
+2025,6,2025-06-01,Heladerías propias,Postres y Tartas,259979.48,28886.7,Proyección
+2025,7,2025-07-01,Heladerías propias,Postres y Tartas,304315.39,33812.8,Proyección
+2025,8,2025-08-01,Heladerías propias,Postres y Tartas,334291.45,37143.5,Proyección
+2025,9,2025-09-01,Heladerías propias,Postres y Tartas,186648.85,20738.8,Proyección
+2025,10,2025-10-01,Heladerías propias,Postres y Tartas,112763.67,12529.3,Proyección
+2025,11,2025-11-01,Heladerías propias,Postres y Tartas,83780.9,9309.0,Proyección
+2025,12,2025-12-01,Heladerías propias,Postres y Tartas,72654.08,8072.7,Proyección
+2025,1,2025-01-01,Heladerías propias,Cucuruchos/Sándwich,44553.28,4950.4,Proyección
+2025,2,2025-02-01,Heladerías propias,Cucuruchos/Sándwich,54015.05,6001.6,Proyección
+2025,3,2025-03-01,Heladerías propias,Cucuruchos/Sándwich,73924.65,8213.8,Proyección
+2025,4,2025-04-01,Heladerías propias,Cucuruchos/Sándwich,91252.93,10139.2,Proyección
+2025,5,2025-05-01,Heladerías propias,Cucuruchos/Sándwich,126952.52,14105.9,Proyección
+2025,6,2025-06-01,Heladerías propias,Cucuruchos/Sándwich,190550.81,21172.3,Proyección
+2025,7,2025-07-01,Heladerías propias,Cucuruchos/Sándwich,226226.12,25136.3,Proyección
+2025,8,2025-08-01,Heladerías propias,Cucuruchos/Sándwich,212825.71,23647.3,Proyección
+2025,9,2025-09-01,Heladerías propias,Cucuruchos/Sándwich,153857.1,17095.2,Proyección
+2025,10,2025-10-01,Heladerías propias,Cucuruchos/Sándwich,83939.57,9326.6,Proyección
+2025,11,2025-11-01,Heladerías propias,Cucuruchos/Sándwich,53007.09,5889.7,Proyección
+2025,12,2025-12-01,Heladerías propias,Cucuruchos/Sándwich,50362.64,5595.9,Proyección
+2025,1,2025-01-01,Heladerías propias,Yogur helado,33459.74,3717.8,Proyección
+2025,2,2025-02-01,Heladerías propias,Yogur helado,37715.79,4190.6,Proyección
+2025,3,2025-03-01,Heladerías propias,Yogur helado,51538.16,5726.4,Proyección
+2025,4,2025-04-01,Heladerías propias,Yogur helado,68253.03,7583.7,Proyección
+2025,5,2025-05-01,Heladerías propias,Yogur helado,90819.71,10091.0,Proyección
+2025,6,2025-06-01,Heladerías propias,Yogur helado,139833.17,15537.0,Proyección
+2025,7,2025-07-01,Heladerías propias,Yogur helado,155859.35,17317.7,Proyección
+2025,8,2025-08-01,Heladerías propias,Yogur helado,161310.74,17923.4,Proyección
+2025,9,2025-09-01,Heladerías propias,Yogur helado,102332.61,11370.3,Proyección
+2025,10,2025-10-01,Heladerías propias,Yogur helado,64792.8,7199.2,Proyección
+2025,11,2025-11-01,Heladerías propias,Yogur helado,42156.37,4684.1,Proyección
+2025,12,2025-12-01,Heladerías propias,Yogur helado,38096.56,4232.9,Proyección
+2026,1,2026-01-01,Supermercados,Tarrinas,652556.97,155370.7,Previsión (año en curso)
+2026,2,2026-02-01,Supermercados,Tarrinas,749173.74,178374.7,Previsión (año en curso)
+2026,3,2026-03-01,Supermercados,Tarrinas,993147.03,236463.6,Previsión (año en curso)
+2026,4,2026-04-01,Supermercados,Tarrinas,1309304.49,311739.2,Previsión (año en curso)
+2026,5,2026-05-01,Supermercados,Tarrinas,1818273.96,432922.4,Previsión (año en curso)
+2026,6,2026-06-01,Supermercados,Tarrinas,2635749.57,627559.5,Previsión (año en curso)
+2026,1,2026-01-01,Supermercados,Bombones y Palo,529409.54,126049.9,Previsión (año en curso)
+2026,2,2026-02-01,Supermercados,Bombones y Palo,663645.67,158010.9,Previsión (año en curso)
+2026,3,2026-03-01,Supermercados,Bombones y Palo,850640.73,202533.5,Previsión (año en curso)
+2026,4,2026-04-01,Supermercados,Bombones y Palo,1017483.37,242258.0,Previsión (año en curso)
+2026,5,2026-05-01,Supermercados,Bombones y Palo,1593078.82,379304.5,Previsión (año en curso)
+2026,6,2026-06-01,Supermercados,Bombones y Palo,2058318.43,490075.8,Previsión (año en curso)
+2026,1,2026-01-01,Supermercados,Postres y Tartas,439209.09,104573.6,Previsión (año en curso)
+2026,2,2026-02-01,Supermercados,Postres y Tartas,453043.34,107867.5,Previsión (año en curso)
+2026,3,2026-03-01,Supermercados,Postres y Tartas,641028.38,152625.8,Previsión (año en curso)
+2026,4,2026-04-01,Supermercados,Postres y Tartas,763342.87,181748.3,Previsión (año en curso)
+2026,5,2026-05-01,Supermercados,Postres y Tartas,1190108.5,283359.2,Previsión (año en curso)
+2026,6,2026-06-01,Supermercados,Postres y Tartas,1440485.05,342972.7,Previsión (año en curso)
+2026,1,2026-01-01,Supermercados,Cucuruchos/Sándwich,271678.85,64685.4,Previsión (año en curso)
+2026,2,2026-02-01,Supermercados,Cucuruchos/Sándwich,340292.01,81021.9,Previsión (año en curso)
+2026,3,2026-03-01,Supermercados,Cucuruchos/Sándwich,476991.35,113569.4,Previsión (año en curso)
+2026,4,2026-04-01,Supermercados,Cucuruchos/Sándwich,602642.87,143486.4,Previsión (año en curso)
+2026,5,2026-05-01,Supermercados,Cucuruchos/Sándwich,811141.95,193129.1,Previsión (año en curso)
+2026,6,2026-06-01,Supermercados,Cucuruchos/Sándwich,1144659.95,272538.1,Previsión (año en curso)
+2026,1,2026-01-01,Supermercados,Yogur helado,210708.45,50168.7,Previsión (año en curso)
+2026,2,2026-02-01,Supermercados,Yogur helado,220600.4,52523.9,Previsión (año en curso)
+2026,3,2026-03-01,Supermercados,Yogur helado,352470.54,83921.6,Previsión (año en curso)
+2026,4,2026-04-01,Supermercados,Yogur helado,439982.93,104757.9,Previsión (año en curso)
+2026,5,2026-05-01,Supermercados,Yogur helado,602096.58,143356.4,Previsión (año en curso)
+2026,6,2026-06-01,Supermercados,Yogur helado,820671.13,195397.9,Previsión (año en curso)
+2026,1,2026-01-01,Hostelería (HORECA),Tarrinas,333300.85,51277.0,Previsión (año en curso)
+2026,2,2026-02-01,Hostelería (HORECA),Tarrinas,329099.13,50630.6,Previsión (año en curso)
+2026,3,2026-03-01,Hostelería (HORECA),Tarrinas,506780.1,77966.1,Previsión (año en curso)
+2026,4,2026-04-01,Hostelería (HORECA),Tarrinas,637231.71,98035.7,Previsión (año en curso)
+2026,5,2026-05-01,Hostelería (HORECA),Tarrinas,905216.11,139264.0,Previsión (año en curso)
+2026,6,2026-06-01,Hostelería (HORECA),Tarrinas,1264774.43,194580.7,Previsión (año en curso)
+2026,1,2026-01-01,Hostelería (HORECA),Bombones y Palo,311578.41,47935.1,Previsión (año en curso)
+2026,2,2026-02-01,Hostelería (HORECA),Bombones y Palo,327824.85,50434.6,Previsión (año en curso)
+2026,3,2026-03-01,Hostelería (HORECA),Bombones y Palo,432005.16,66462.3,Previsión (año en curso)
+2026,4,2026-04-01,Hostelería (HORECA),Bombones y Palo,588133.3,90482.0,Previsión (año en curso)
+2026,5,2026-05-01,Hostelería (HORECA),Bombones y Palo,883666.69,135948.8,Previsión (año en curso)
+2026,6,2026-06-01,Hostelería (HORECA),Bombones y Palo,1163162.4,178948.1,Previsión (año en curso)
+2026,1,2026-01-01,Hostelería (HORECA),Postres y Tartas,220564.97,33933.1,Previsión (año en curso)
+2026,2,2026-02-01,Hostelería (HORECA),Postres y Tartas,236439.92,36375.4,Previsión (año en curso)
+2026,3,2026-03-01,Hostelería (HORECA),Postres y Tartas,354023.59,54465.1,Previsión (año en curso)
+2026,4,2026-04-01,Hostelería (HORECA),Postres y Tartas,448471.71,68995.6,Previsión (año en curso)
+2026,5,2026-05-01,Hostelería (HORECA),Postres y Tartas,663729.07,102112.1,Previsión (año en curso)
+2026,6,2026-06-01,Hostelería (HORECA),Postres y Tartas,882362.88,135748.1,Previsión (año en curso)
+2026,1,2026-01-01,Hostelería (HORECA),Cucuruchos/Sándwich,162014.74,24925.3,Previsión (año en curso)
+2026,2,2026-02-01,Hostelería (HORECA),Cucuruchos/Sándwich,166463.22,25609.7,Previsión (año en curso)
+2026,3,2026-03-01,Hostelería (HORECA),Cucuruchos/Sándwich,255229.74,39266.1,Previsión (año en curso)
+2026,4,2026-04-01,Hostelería (HORECA),Cucuruchos/Sándwich,310914.8,47833.0,Previsión (año en curso)
+2026,5,2026-05-01,Hostelería (HORECA),Cucuruchos/Sándwich,490849.47,75515.3,Previsión (año en curso)
+2026,6,2026-06-01,Hostelería (HORECA),Cucuruchos/Sándwich,578013.15,88925.1,Previsión (año en curso)
+2026,1,2026-01-01,Hostelería (HORECA),Yogur helado,119498.51,18384.4,Previsión (año en curso)
+2026,2,2026-02-01,Hostelería (HORECA),Yogur helado,123380.79,18981.7,Previsión (año en curso)
+2026,3,2026-03-01,Hostelería (HORECA),Yogur helado,165469.62,25456.8,Previsión (año en curso)
+2026,4,2026-04-01,Hostelería (HORECA),Yogur helado,214588.75,33013.6,Previsión (año en curso)
+2026,5,2026-05-01,Hostelería (HORECA),Yogur helado,312558.91,48086.0,Previsión (año en curso)
+2026,6,2026-06-01,Hostelería (HORECA),Yogur helado,436670.12,67180.0,Previsión (año en curso)
+2026,1,2026-01-01,Exportación,Tarrinas,496447.87,130644.1,Previsión (año en curso)
+2026,2,2026-02-01,Exportación,Tarrinas,522136.27,137404.3,Previsión (año en curso)
+2026,3,2026-03-01,Exportación,Tarrinas,751662.07,197805.8,Previsión (año en curso)
+2026,4,2026-04-01,Exportación,Tarrinas,1071244.07,281906.3,Previsión (año en curso)
+2026,5,2026-05-01,Exportación,Tarrinas,1518370.46,399571.1,Previsión (año en curso)
+2026,6,2026-06-01,Exportación,Tarrinas,1922492.23,505919.0,Previsión (año en curso)
+2026,1,2026-01-01,Exportación,Bombones y Palo,420090.46,110550.2,Previsión (año en curso)
+2026,2,2026-02-01,Exportación,Bombones y Palo,468677.95,123336.3,Previsión (año en curso)
+2026,3,2026-03-01,Exportación,Bombones y Palo,672242.58,176906.0,Previsión (año en curso)
+2026,4,2026-04-01,Exportación,Bombones y Palo,795702.42,209395.4,Previsión (año en curso)
+2026,5,2026-05-01,Exportación,Bombones y Palo,1195705.09,314659.2,Previsión (año en curso)
+2026,6,2026-06-01,Exportación,Bombones y Palo,1494548.2,393302.2,Previsión (año en curso)
+2026,1,2026-01-01,Exportación,Postres y Tartas,328971.79,86571.5,Previsión (año en curso)
+2026,2,2026-02-01,Exportación,Postres y Tartas,369967.52,97359.9,Previsión (año en curso)
+2026,3,2026-03-01,Exportación,Postres y Tartas,489597.81,128841.5,Previsión (año en curso)
+2026,4,2026-04-01,Exportación,Postres y Tartas,695833.65,183114.1,Previsión (año en curso)
+2026,5,2026-05-01,Exportación,Postres y Tartas,874657.65,230173.0,Previsión (año en curso)
+2026,6,2026-06-01,Exportación,Postres y Tartas,1162459.41,305910.3,Previsión (año en curso)
+2026,1,2026-01-01,Exportación,Cucuruchos/Sándwich,228307.32,60080.9,Previsión (año en curso)
+2026,2,2026-02-01,Exportación,Cucuruchos/Sándwich,263993.23,69471.9,Previsión (año en curso)
+2026,3,2026-03-01,Exportación,Cucuruchos/Sándwich,380773.35,100203.5,Previsión (año en curso)
+2026,4,2026-04-01,Exportación,Cucuruchos/Sándwich,441186.71,116101.7,Previsión (año en curso)
+2026,5,2026-05-01,Exportación,Cucuruchos/Sándwich,687412.35,180898.0,Previsión (año en curso)
+2026,6,2026-06-01,Exportación,Cucuruchos/Sándwich,876317.71,230610.0,Previsión (año en curso)
+2026,1,2026-01-01,Exportación,Yogur helado,159874.87,42072.3,Previsión (año en curso)
+2026,2,2026-02-01,Exportación,Yogur helado,187102.3,49237.5,Previsión (año en curso)
+2026,3,2026-03-01,Exportación,Yogur helado,259041.57,68168.8,Previsión (año en curso)
+2026,4,2026-04-01,Exportación,Yogur helado,297111.66,78187.3,Previsión (año en curso)
+2026,5,2026-05-01,Exportación,Yogur helado,500276.61,131651.7,Previsión (año en curso)
+2026,6,2026-06-01,Exportación,Yogur helado,670424.87,176427.6,Previsión (año en curso)
+2026,1,2026-01-01,Heladerías propias,Tarrinas,106515.48,11835.1,Previsión (año en curso)
+2026,2,2026-02-01,Heladerías propias,Tarrinas,124589.64,13843.3,Previsión (año en curso)
+2026,3,2026-03-01,Heladerías propias,Tarrinas,175265.53,19474.0,Previsión (año en curso)
+2026,4,2026-04-01,Heladerías propias,Tarrinas,222775.54,24752.8,Previsión (año en curso)
+2026,5,2026-05-01,Heladerías propias,Tarrinas,308906.64,34323.0,Previsión (año en curso)
+2026,6,2026-06-01,Heladerías propias,Tarrinas,413242.06,45915.8,Previsión (año en curso)
+2026,1,2026-01-01,Heladerías propias,Bombones y Palo,95172.28,10574.7,Previsión (año en curso)
+2026,2,2026-02-01,Heladerías propias,Bombones y Palo,112090.81,12454.6,Previsión (año en curso)
+2026,3,2026-03-01,Heladerías propias,Bombones y Palo,152264.19,16918.2,Previsión (año en curso)
+2026,4,2026-04-01,Heladerías propias,Bombones y Palo,187056.33,20784.1,Previsión (año en curso)
+2026,5,2026-05-01,Heladerías propias,Bombones y Palo,285916.06,31768.5,Previsión (año en curso)
+2026,6,2026-06-01,Heladerías propias,Bombones y Palo,317806.12,35311.8,Previsión (año en curso)
+2026,1,2026-01-01,Heladerías propias,Postres y Tartas,77513.51,8612.6,Previsión (año en curso)
+2026,2,2026-02-01,Heladerías propias,Postres y Tartas,74363.09,8262.5,Previsión (año en curso)
+2026,3,2026-03-01,Heladerías propias,Postres y Tartas,111960.64,12440.1,Previsión (año en curso)
+2026,4,2026-04-01,Heladerías propias,Postres y Tartas,138398.67,15377.6,Previsión (año en curso)
+2026,5,2026-05-01,Heladerías propias,Postres y Tartas,198056.13,22006.2,Previsión (año en curso)
+2026,6,2026-06-01,Heladerías propias,Postres y Tartas,301613.32,33512.6,Previsión (año en curso)
+2026,1,2026-01-01,Heladerías propias,Cucuruchos/Sándwich,50112.23,5568.0,Previsión (año en curso)
+2026,2,2026-02-01,Heladerías propias,Cucuruchos/Sándwich,58001.29,6444.6,Previsión (año en curso)
+2026,3,2026-03-01,Heladerías propias,Cucuruchos/Sándwich,79631.67,8848.0,Previsión (año en curso)
+2026,4,2026-04-01,Heladerías propias,Cucuruchos/Sándwich,105072.14,11674.7,Previsión (año en curso)
+2026,5,2026-05-01,Heladerías propias,Cucuruchos/Sándwich,148804.54,16533.9,Previsión (año en curso)
+2026,6,2026-06-01,Heladerías propias,Cucuruchos/Sándwich,186746.44,20749.6,Previsión (año en curso)
+2026,1,2026-01-01,Heladerías propias,Yogur helado,38477.29,4275.3,Previsión (año en curso)
+2026,2,2026-02-01,Heladerías propias,Yogur helado,39718.56,4413.2,Previsión (año en curso)
+2026,3,2026-03-01,Heladerías propias,Yogur helado,52576.21,5841.8,Previsión (año en curso)
+2026,4,2026-04-01,Heladerías propias,Yogur helado,71733.99,7970.5,Previsión (año en curso)
+2026,5,2026-05-01,Heladerías propias,Yogur helado,113827.45,12647.5,Previsión (año en curso)
+2026,6,2026-06-01,Heladerías propias,Yogur helado,148593.08,16510.3,Previsión (año en curso)

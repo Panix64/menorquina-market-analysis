@@ -1,0 +1,20 @@
+{
+    "name": "La Menorquina Dark",
+    "dataColors": ["#C8A04B", "#1B3A5C", "#7BA5C4", "#E0C88A", "#3E6187", "#A5723B", "#5B8CB0", "#D4B96A"],
+    "background": "#0F1E2E",
+    "foreground": "#EAF0F5",
+    "tableAccent": "#C8A04B",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "show": true, "color": {"solid": {"color": "#16283A"}}, "transparency": 0 }],
+                "border": [{ "show": true, "color": {"solid": {"color": "#24405A"}}, "radius": 10 }],
+                "title": [{ "fontColor": {"solid": {"color": "#EAF0F5"}}, "fontSize": 13, "bold": true, "alignment": "center" }],
+                "labels": [{ "color": {"solid": {"color": "#EAF0F5"}} }],
+                "legend": [{ "labelColor": {"solid": {"color": "#C3D0DC"}} }],
+                "categoryAxis": [{ "labelColor": {"solid": {"color": "#C3D0DC"}}, "gridlineShow": false }],
+                "valueAxis": [{ "labelColor": {"solid": {"color": "#C3D0DC"}}, "gridlineColor": {"solid": {"color": "#24405A"}} }]
+            }
+        }
+    }
+}
